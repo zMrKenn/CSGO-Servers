@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/big_boss/sna2_pacth0_def_bsm_alp"
+	"$bumpmap" "models/player/kuristaja/big_boss/sna2_pacth0_def_nrm"
+	"$alphatest" "1"
+	"$alphatestrefrence" "0.6"
+	"$allowalphatocoverage" "1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/kuristaja/big_boss/white2"
+	"$lightwarptexture" 	"models/player/kuristaja/big_boss/clothes_wrp"
+	"$phongexponent" "6"
+	"$phongboost" "0.1"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+}

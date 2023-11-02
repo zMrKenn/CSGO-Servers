@@ -1,0 +1,258 @@
+"Phrases"
+{
+	// ---------------------------------
+	// 			KICK MESSAGES
+	// ---------------------------------
+	
+	"Kicked_FailedChecks"
+	{
+		"pt"	"Sua conta é muito recente e suspeita, jogue mais os modos de jogo oficiais da Valve"
+	}
+	
+	// If client has failed all his checks and has a private playtime (and playtime is a check), ask them to show it.
+	// This message will also be shown if nda_playtime is set to a negative number (kick player) and they have private playtime
+	"Kicked_PrivatePlaytime"
+	{
+		"pt"	"Deixe seu perfil steam e seu tempo de jogo público. Para alterar vá para as opções de privacidade do seu Perfil Steam"
+	}
+	
+	"Kicked_PrivateProfile"
+	{
+		"pt"	"Deixe seu perfil steam público. Para alterar vá para as opções de privacidade do seu Perfil Steam"
+	}
+	
+	"Kicked_NotEnoughPlaytime"
+	{
+		// {1} = time formatting, see category 'TIME FORMATTING' below for more info
+		// If you want, you can remove {1} and put your own phrase according to your config
+		"pt"	"Você deve ter jogado CS:GO pelo menos {1} para se conectar ao servidor"
+	}
+	
+	"Kicked_NotEnoughSteamLevel"
+	{
+		// {1} = minimum level required
+		"pt"	"Você deve ter pelo menos Nível {1} ​​na Steam para se conectar ao servidor"
+	}
+	
+	// Warning, you shouldn't kick for VPNs as these can cause false positives.
+	// A detection is done if the IP belongs to a corporation that doesn't give residential IPs
+	// AKA you can get a detection while you are at work OR if you are using an IP that is not from your home
+	// You can also get other false positives, but I didn't make this system so I'm not able to provide more infos
+	// -
+	// Players should also be free to play with VPNs, but we know that they are most of the time used for illegal stuff
+	// I do not recommend kicking for this or setting this as a check, since most of the people will NOT use a VPN and get on the server, and those who use them aren't always bad people!
+	// Just set it to 0 or 1 and you should be fine.
+	"Kicked_VPN"
+	{
+		"pt"	"Jogar no servidor com uma VPN é proibido, desative sua VPN ou seu proxy para entrar no servidor"
+	}
+	
+	"Kicked_SteamAccountTooRecent"
+	{
+		"pt"	"Sua conta Steam foi criada muito recentemente. Por razões de segurança, você não pode se conectar ao servidor"
+	}
+	
+	"Kicked_NoCoin"
+	{
+		"pt"	"Você deve exibir uma moeda em seu perfil CS:GO para se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_VAC"
+	{
+		"pt"	"Contas com VAC Ban são proibidas de se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_VAC_multiple"
+	{
+		"pt"	"Contas com VAC Bans são proibidas de se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_Game"
+	{
+		"pt"	"Contas com Game Ban são proibidas de se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_Game_multiple"
+	{
+		"pt"	"Contas com Game Bans são proibidas de se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_Community"
+	{
+		"pt"	"Contas com Ban Comunidade são proibidas de se conectar ao servidor"
+	}
+	
+	"Kicked_Bans_Recent"
+	{
+		"pt"	"Você recebeu VAC/Game Ban recentemente. Como medida de segurança, você não pode se conectar ao servidor"
+	}
+	
+	// ---------------------------------------
+	// 				NDA COMMAND
+	// ---------------------------------------
+	
+	"Command_NDA_NoMenu"
+	{
+		"pt"	"Desculpe, mas parece que nenhum menu está ativado, altere suas configurações para adicionar alguns."
+	}
+	
+	"Command_NDA_NonPrime"
+	{
+		"pt"	"Non-Prime"
+	}
+	
+	"Command_NDA_CommunityBans"
+	{
+		"pt"	"Banimento da Comunidade"
+	}
+	
+	"Command_NDA_RecentBans"
+	{
+		"pt"	"Banimentos Recentes"
+	}
+	
+	"Command_NDA_PlayerDisconnected"
+	{
+		"pt"	"{darkred}[NDA] {lightblue}Oops, parece que o player desconectou!"
+	}
+	
+	// ---------------------------------------
+	// 				VPN MESSAGES
+	// ---------------------------------------
+	
+	"SeemsUsingVPN"
+	{
+		// {1} = playername | {2} = IP
+		"pt"	"{darkred}[NDA] {blue}Player {darkblue}{1}{blue} parece usar uma VPN com o IP {red}{2}"
+	}
+	
+	"Discord_SeemsUsingVPN"
+	{
+		// {client} = playername+link | {1} = IP
+		"pt"	"Player {client} parece usar uma VPN com o IP {1}"
+	}
+	
+	"Command_VPN_Title"
+	{
+		"pt"	"Players que potencialmente têm uma VPN"
+	}
+	
+	"Command_VPN_Recheck"
+	{
+		"pt"	"Verifique novamente os IPs dos players"
+	}
+	
+	"Command_VPN_NoVPN"
+	{
+		"pt"	"Nenhum player parece estar usando uma VPN"
+	}
+	
+	// ---------------------------------------
+	// 				PRIME MESSAGES
+	// ---------------------------------------
+	
+	"Command_Prime_Title"
+	{
+		"pt"	"Players Non-Prime"
+	}
+	
+	"Command_Prime_NoNonPrime"
+	{
+		"pt"	"Nenhum player é Non-Prime"
+	}
+	
+	"IsNonPrime"
+	{
+		// {1} = playername
+		"pt"	"{darkred}[NDA] {blue}Player {darkblue}{1}{blue} não tem {red}Status Prime"
+	}
+	
+	// -------------------------------------------
+	// 				STEAM BAN MESSAGES
+	// -------------------------------------------
+	
+	"IsCommunityBanned"
+	{
+		// {1} = playername
+		"pt"	"{darkred}[NDA] {blue}Player {darkblue}{1}{blue} foi {red}banido pela comunidade"
+	}
+	
+	"Discord_IsCommunityBanned"
+	{
+		// {client} = playername+link
+		"pt"	"Player {client} foi banido pela comunidade"
+	}
+	
+	"Command_Bans_Community_Title"
+	{
+		"pt"	"Players que são banidos pela comunidade"
+	}
+	
+	"Command_Bans_Community_NoBan"
+	{
+		"pt"	"Nenhum player foi banido pela comunidade"
+	}
+	
+	"RecentlyBanned"
+	{
+		// {1} = playername | {2} = days ago
+		"pt"	"{darkred}[NDA] {blue}Player {darkblue}{1} {blue}foi {red}banido VAC/Game {2} dia(s) atrás"
+	}
+	
+	"Discord_RecentlyBanned"
+	{
+		// {client} = playername+link | {1} = days ago
+		"pt"	"Player {client} foi banido VAC/Game {1} dia(s) atrás"
+	}
+	
+	"Command_Bans_Recent_Title"
+	{
+		"pt"	"Players que foram banidos recentemente"
+	}
+	
+	"Command_Bans_Recent_NoBan"
+	{
+		"pt"	"Nenhum player foi banido recentemente"
+	}
+	
+	// -----------------------------------------
+	//				TIME FORMATTING
+	// -----------------------------------------
+	
+	"Time_HoursAndMins"
+	{
+		// {1} = playtime in hours | {2} = playtime in minutes
+		"pt"	"{1} horas e {2} minutos"
+	}
+	
+	"Time_Hours"
+	{
+		// {1} = playtime in hours
+		"pt"	"{1} horas"
+	}
+	
+	"Time_Hour"
+	{
+		"pt"	"1 hora"
+	}
+	
+	"Time_Mins"
+	{
+		// {1} = playtime in minutes
+		"pt"	"{1} minutos"
+	}
+	
+	// -------------------------------------------
+	//				DISCORD MESSAGES
+	// -------------------------------------------
+	
+	"Discord_Alert"
+	{
+		"pt"	"Alerta:"
+	}
+	
+	"Discord_Server"
+	{
+		"pt"	"Servidor:"
+	}
+}

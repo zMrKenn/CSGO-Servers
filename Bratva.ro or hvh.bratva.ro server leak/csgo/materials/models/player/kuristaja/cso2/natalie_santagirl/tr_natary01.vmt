@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/natalie_santagirl/tr_natary01"
+	"$bumpmap"		"models/player/kuristaja/cso2/natalie_santagirl/tr_natary01_normal"
+
+	"$phong"			1
+	"$phongboost"		1.2
+	"$phongexponent"		20
+	"$phongFresnelboost"	2
+	"$phongFresnelexponent"	3
+	"$phongtint"   		"[1 1 1]"
+
+	"$rimlight"		1
+	"$rimlightexponent"		10  
+	"$rimlightboost"		1.6
+	"$rimmask"		0
+
+	 $alphatest 		1
+
+}

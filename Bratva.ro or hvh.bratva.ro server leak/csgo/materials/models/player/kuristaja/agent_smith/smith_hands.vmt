@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/agent_smith/smith_hands"
+	"$bumpmap" "models/player/kuristaja/agent_smith/smith_hands_normal"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "15"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+	"$color2"			"[0 0 0]"
+	"$blendTintByBaseAlpha"		"1"
+
+}

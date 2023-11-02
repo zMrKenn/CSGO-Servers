@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "wasted/en/wasted.vtf"
+	$translucent 1
+}

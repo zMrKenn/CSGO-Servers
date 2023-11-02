@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+    $basetexture "models/player/kuristaja/motoko/hair"
+    $bumpmap "models/player/kuristaja/motoko/hair_normal"
+
+    $nocull 1
+
+    $phong 1
+    $phongfresnelranges "[0.05 0.05 1]"
+    $phongexponent 15
+    $phongboost 20
+
+    $rimlight 1
+    $rimlightexponent 5
+    $rimlightboost 0.5
+}

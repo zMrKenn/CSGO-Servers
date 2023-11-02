@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"player_drop_speed"
+	{
+		"de"			"Spieler {1} hat ein Speed Paket verloren!"
+	}
+	"player_pickup_speed"
+	{
+		"de"			"Du hast ein Speed Paket aufgehoben! Du kannst jetzt schneller laufen"
+	}
+		"player_drop_health"
+	{
+		"de"			"Spieler {1} hat ein MedicPaket mit {2} verloren!"
+	}
+	"player_pickup_health"
+	{
+		"de"			"Du hast ein MedicPaket mit {1} aufgehoben !"
+	}
+	"player_drop_grenade"
+	{
+		"de"			"Spieler {1} hat 2 Fraggranten verloren!"
+	}
+	"player_pickup_grenade"
+	{
+		"de"			"Du hast 2 Fraggranaten aufgehoben!"
+	}
+}

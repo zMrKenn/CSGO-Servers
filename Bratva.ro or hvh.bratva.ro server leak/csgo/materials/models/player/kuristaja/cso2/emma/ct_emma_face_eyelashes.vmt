@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models/player/kuristaja/cso2/emma/ct_emma_face_eyelashes"
+       	 $translucent  1
+
+//	$alphatest 1
+	$nocull 1
+	$ALPHATESTREFERENCE	0.1
+
+}

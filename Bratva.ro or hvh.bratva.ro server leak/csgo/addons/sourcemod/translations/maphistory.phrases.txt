@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"NoLastMap"
+	{
+		"#format"		""
+		"en"			"There is no last map."
+		"fr"			"Il n'y a pas de dernière carte."
+	}
+	"LastMapNameTime"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}{5:s}{6:s}"
+		"en"			"The last map was {1}{2} {3}and started at {4}{5}{6}."
+		"fr"			"La dernière carte était {1}{2} {3}et a commencée à {4}{5}{6}."
+	}
+	"PanelTitleMapHistory"
+	{
+		"#format"		""
+		"en"			"Map History"
+		"fr"			"Historique des cartes"
+	}
+}

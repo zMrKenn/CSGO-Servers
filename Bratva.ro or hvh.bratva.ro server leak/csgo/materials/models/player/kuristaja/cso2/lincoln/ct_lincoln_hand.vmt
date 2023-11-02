@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/lincoln/ct_lincoln_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/lincoln/ct_lincoln_hand_normal"
+
+	"$phongexponent"		10
+	"$phongboost"		1.0
+	"$phong"			1
+	"$bumpscale"		1
+
+	"$rimlight"		1
+	"$rimlightexponent"		8
+	"$rimlightboost"		0.1
+	"$rimmask"		0
+}

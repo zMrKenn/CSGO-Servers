@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/kuristaja/trager/trager_misc"
+	"$bumpmap" "models/player/kuristaja/trager/trager_misc_normal"
+
+	//"$nocull" "1"
+
+	"$phong"			"1"
+	"$phongboost"		".08"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+
+	//"$halflambert" "1"
+ 	"$lightwarptexture" "models/player/kuristaja/trager/trager_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1.5"
+}

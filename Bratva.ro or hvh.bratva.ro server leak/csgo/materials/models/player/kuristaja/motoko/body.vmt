@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+    $basetexture "models/player/kuristaja/motoko/body"
+    $bumpmap "models/player/kuristaja/motoko/body_normal"
+
+    $phong 1
+    $phongfresnelranges "[0.05 0.05 1]"
+    $phongexponent 20
+    $phongboost 7
+
+    $rimlight 1
+    $rimlightexponent 5
+    $rimlightboost 0.5
+
+    $selfillum 1
+    $selfillumtint "[0 0.88 0.95]"
+}

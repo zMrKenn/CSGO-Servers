@@ -1,0 +1,14 @@
+
+// Смотрите описание sm_vip_info_show_mode
+
+// Цвета для чата:
+// {DEFAULT} - золотой
+// {LIGHTGREEN} - салатовый
+// {GREEN} - зеленый
+// HTML цвета, например: #FFFFAA
+
+
+Your VIP status has expired.
+To re-purchase VIP status
+Contact fNK\n \n
+

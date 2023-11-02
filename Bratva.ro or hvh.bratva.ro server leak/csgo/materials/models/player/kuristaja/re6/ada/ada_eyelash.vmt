@@ -1,0 +1,7 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"models/player/kuristaja/re6/ada/ada_eyelash" 
+	"$bumpmap" 	"models/player/kuristaja/re6/ada/ada_eyelash_normal"
+	"$translucent" "1"
+	"$nocull" "1"
+} 

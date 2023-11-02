@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/caleon1/harleyquinn/Material__29"
+	"$bumpmap" "models/player/custom_player/caleon1/harleyquinn/Material__29_n"
+	$nocull 1
+}

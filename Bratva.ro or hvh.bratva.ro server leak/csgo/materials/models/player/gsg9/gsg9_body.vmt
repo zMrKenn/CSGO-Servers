@@ -1,0 +1,8 @@
+// Generated with BravoSix's tool
+// 2/22/2012 7:53:25 PM
+
+"VertexlitGeneric"
+{
+"$basetexture" "models\player\gsg9\gsg9_body"
+"$bumpmap" "models\player\cso nst zombie\nst1\origins_n"
+}

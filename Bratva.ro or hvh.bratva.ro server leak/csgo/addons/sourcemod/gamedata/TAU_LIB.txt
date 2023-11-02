@@ -1,0 +1,21 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"ValidateAuthTicketResponseHelper"
+			{
+				"library"		"engine"
+				"linux"			"\x55\x89\xE5\x81\xEC\x38\x01\x00\x00\x89\x5D\xF4\x8B\x5D\x0C\x89\x75\xF8\x8B\x75\x10" //_ZN13CSteam3Server34OnValidateAuthTicketResponseHelperEP11CBaseClient20EAuthSessionResponse
+				"windows"		"\x55\x8B\xEC\x81\xEC\x0C\x01\x00\x00\x53\x56\x57\x8B\x7D\x08"
+			}
+			"SetReservationCookie"
+			{
+				"library"		"engine"
+				"linux"			"\x55\x89\xE5\x57\x56\x53\x81\xEC\x9C\x04\x00\x00" //_ZN11CBaseServer20SetReservationCookieEyPKcz
+				"windows"		"\x55\x8B\xEC\x83\xE4\xF8\x81\xEC\x44\x02\x00\x00\x53\x8B\x5D\x08"
+			}
+		}
+	}
+}

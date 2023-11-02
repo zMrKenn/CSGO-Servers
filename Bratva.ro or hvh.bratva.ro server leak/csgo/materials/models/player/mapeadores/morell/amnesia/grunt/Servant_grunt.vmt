@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/mapeadores/morell/amnesia/grunt/Servant_Grunt"
+	"$bumpmap"     "models/player/mapeadores/morell/amnesia/grunt/Servant_grunt_nrm"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" 50
+	"$phongboost"	".05"
+	"$phongfresnelranges"	"[0.01 0.5 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" ".5"	
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/custom_player/caleon1/gunslinger/GUNSLINGER_D.vtf"
+	$bumpmap "models/player/custom_player/caleon1/gunslinger/GUNSLINGER_N.vtf"
+	
+	$phong 1
+	$phongexponent 5
+	$phongboost 1.0
+	$phongfresnelranges "[0 0.5 1]"
+}

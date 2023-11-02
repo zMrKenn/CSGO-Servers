@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/agent_smith/smith_arms"
+	"$bumpmap" "models/player/kuristaja/agent_smith/smith_arms_normal"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".1"	
+
+	"$phongfresnelranges"	"[.25 .5 8]"
+	"$halflambert" "0"
+}

@@ -1,0 +1,394 @@
+"Store"
+{
+	
+	
+	"Tracers"
+	{
+		"Blue"
+		{
+			"color" "0 0 125"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Blue Violet"
+		{
+			"color" "138 43 226"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Cyan"
+		{
+			"color" "0 255 125"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Fire Brick"
+		{
+			"color" "178 34 34"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Fuschia"
+		{
+			"color" "125 0 125"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Gray"
+		{
+			"color" "240 240 240"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Green"
+		{
+			"color" "0 125 0"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Hunter Green"
+		{
+			"color" "35 142 35"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Lawn Green"
+		{
+			"color" "124 122 0"
+			"price" "2700"
+			"type" "tracer"
+		}
+		"Olive Brown"
+		{
+			"color" "128 125 165"
+			"price" "2700"
+			"type" "tracer"
+		}
+		
+		"Orange"
+		{
+			"color" "125 77 0"
+			"price" "2700"
+			"type" "tracer"
+		}
+	}
+
+	
+	
+	
+		
+
+	"Chat stuff"
+	{
+		"Name Tags"
+		{
+			"D3MoN"
+			{
+				"tag" "{lightblue}[D3MoN]{teamcolor} "
+				"price" "1400"
+				"type" "nametag"
+			}
+			"NoNamer"
+			{
+				"tag" "{blue}[NoNamer]{teamcolor} "
+				"price" "1500"
+				"type" "nametag"
+			}
+			"GODMODE"
+			{
+				"tag" "{green}[GODMODE]{teamcolor} "
+				"price" "1600"
+				"type" "nametag"
+			}
+			"M0NSTER"
+			{
+				"tag" "{lightblue}[M0NSTER]{teamcolor} "
+				"price" "1700"
+				"type" "nametag"
+			}
+			"NewComer"
+			{
+				"tag" "{blue}[NewComer]{teamcolor} "
+				"price" "1800"
+				"type" "nametag"
+			}
+			"DT ABUSER"
+			{
+				"tag" "{green}[DT ABUSER]{teamcolor} "
+				"price" "1900"
+				"type" "nametag"
+			}
+			"HVH KING"
+			{
+				"tag" "{green}[HVH KING]{teamcolor} "
+				"price" "2000"
+				"type" "nametag"
+			}
+			"Bratva Peek"
+			{
+				"tag" "{green}[Bratva Peek]{teamcolor} "
+				"price" "2500"
+				"type" "nametag"
+			}
+
+		}
+		
+		"Message Colors"
+		{
+			
+			"Blue"
+			{
+				"color" "{blue}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+			"Dark Red"
+			{
+				"color" "{darkred}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+
+			"Green"
+			{
+				"color" "{green}"
+				"price" "1000"
+			    "type"  "msgcolor"
+			}
+
+	
+			"Light Red"
+			{
+				"color" "{lightred}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+
+
+			"Olive"
+			{
+				"color" "{olive}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+
+			"Purple"
+			{
+				"color" "{purple}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+			"Yellow"
+			{
+				"color" "{yellow}"
+				"price" "1000"
+				"type" "msgcolor"
+			}
+
+		}
+		
+		"Name Colors"
+		{
+			
+			"Blue"
+			{
+				"color" "{blue}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+
+			"Dark Red"
+			{
+				"color" "{darkred}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+
+			"Green"
+			{
+				"color" "{green}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+	
+			"Light Red"
+			{
+				"color" "{lightred}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+
+			"Olive"
+			{
+				"color" "{olive}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+
+			"Purple"
+			{
+				"color" "{purple}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+
+			"Yellow"
+			{
+				"color" "{yellow}"
+				"price" "1000"
+				"type" "namecolor"
+			}
+
+		}
+    }
+    
+
+
+
+
+"Wings"
+	{	
+		"Blue Wings"
+		{
+		"model""models/shop/wings/blue.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2500"
+		"type" "hat"
+		"slot" "1"
+		}			
+		"Cyan Wings"
+		{
+		"model""models/shop/wings/cyan.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2500"
+		"type" "hat"
+		"slot" "1"
+		}			
+		"Green Wings"
+		{
+		"model""models/shop/wings/green.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2500"
+		"type" "hat"
+		"slot" "1"
+		}			
+		"Red Wings"
+		{
+		"model""models/shop/wings/red.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2500"
+		"type" "hat"
+		"slot" "1"
+		}			
+		"White Wings"
+		{
+		"model""models/shop/wings/white.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2500"
+		"type" "hat"
+		"slot" "1"
+		}		
+		"Lats"
+		{
+		"model""models/shop/perfectworld_wings01_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "8000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Fuce"	
+		{
+		"model""models/shop/perfectworld_wings02_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "6000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Fire and Ice"
+		{
+		"model""models/shop/perfectworld_wings03_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Izy"
+		{
+		"model""models/shop/perfectworld_wings04_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Spon"
+		{
+		"model""models/shop/perfectworld_wings05_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Hao"
+		{
+		"model""models/shop/perfectworld_wings06_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Eilf"
+		{
+		"model""models/shop/perfectworld_wings07_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Funa"
+		{
+		"model""models/shop/perfectworld_wings08_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+		"Luca"
+		{
+		"model""models/shop/perfectworld_wings09_v3.mdl"
+		"position""-1.500000 -6.500000 -11.500000"
+		"angles""-65.000000 170.000000 0.000000"
+		"price" "2000"
+		"type" "hat"
+		"slot" "1"
+		}
+	}
+}
+
+
+
+	
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// BEARD
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_06hige2_bm"
+	"$translucent" "1"
+}

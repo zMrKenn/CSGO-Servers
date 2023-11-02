@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+$baseTexture "models\player\kuristaja\heavy_phoenix\tm_heavyphoenix_lwr_body_color"
+$bumpmap "models\player\kuristaja\heavy_phoenix\tm_heavyphoenix_lwr_body_normal"
+
+$phong 1
+$phongBoost 80
+
+$phongTint "[1 1 1.4]"
+$phongFresnelRanges "[.002 .2 2]"
+
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightexponent 7
+$rimlightboost "0.3"
+}

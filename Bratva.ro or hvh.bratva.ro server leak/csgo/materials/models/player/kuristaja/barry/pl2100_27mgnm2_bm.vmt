@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// MAGNUM GRIP
+	
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_27mgnm_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\mgnm_normal"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/kuristaja/barry/white2"
+	"$phongexponent" 30
+	"$phongboost" "5"
+	"$phongfresnelranges"	"[5 6 8]"
+	"$PhongAlbedoTint" "1"
+}

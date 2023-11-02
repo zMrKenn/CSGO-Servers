@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/t-600/t0096_0"
+	"$bumpmap" "models/player/kuristaja/t-600/t0096_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "35"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[.05 .25 1]"
+
+	"$selfillum" "1"
+
+}

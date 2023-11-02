@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/duke/duke_hand"
+	"$bumpmap" "models/player/kuristaja/duke/duke_hand_normal"
+
+	"$phong"			"1"
+	"$phongboost"		".6"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+
+	//"$halflambert" "1"
+ 	"$lightwarptexture" "models/player/kuristaja/duke/duke_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"
+	"$rimlightboost" "1"					
+}

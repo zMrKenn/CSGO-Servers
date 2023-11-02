@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"SMPlugin"
+	{
+		"en"		"Sorry. Unknown command! Add this server to favorites. Thanks!"
+		"de"		"Sorry. Unknown command! Add this server to favorites. Thanks!"
+		"fr"		"Sorry. Unknown command! Add this server to favorites. Thanks!"
+	}
+}

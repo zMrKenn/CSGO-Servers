@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/agent_smith/smithshoe"
+	"$bumpmap" "models/player/kuristaja/agent_smith/smithshoe-normal"
+
+	$phong 1
+	$phongboost .07
+	$phongexponent 35	
+}

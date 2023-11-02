@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 "models/player/kuristaja/re6/chris/pl0200_09hair"
+	"$bumpmap"	 "models/player/kuristaja/re6/chris/pl0200_09hair_normal"
+	"$surfaceprop" 	"foliage"
+
+	"$alphatest"	 "1"
+	"$nocull"		 "1"
+
+	"$halflambert"	 "1"
+ 	"$phong" 	"1"
+	"$phongexponent" "40"	
+	"$phongboost"	".15"
+}

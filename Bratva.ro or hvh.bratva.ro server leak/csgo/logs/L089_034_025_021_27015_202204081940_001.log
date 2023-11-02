@@ -1,0 +1,79 @@
+L 04/08/2022 - 19:40:34: Log file started (file "logs/L089_034_025_021_27015_202204081940_001.log") (game "/home/client4775/service5731/csgo/csgo") (version "8515")
+L 04/08/2022 - 19:40:34: server_cvar: "sv_airaccelerate" "500"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_player_interact_with_hostage" "300"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_hostage_interaction" "600"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_rescued_hostage" "600"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 04/08/2022 - 19:40:34: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_freezetime" "5"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_maxrounds" "30"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_roundtime" "1.55"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_roundtime_hostage" "1.92"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_roundtime_defuse" "1.92"
+L 04/08/2022 - 19:40:34: server_cvar: "mp_timelimit" "0"
+L 04/08/2022 - 19:40:34: server_cvar: "sv_deadtalk" "1"
+L 04/08/2022 - 19:40:38: "GOTV<2><BOT><>" entered the game
+L 04/08/2022 - 19:40:38: "MUIE LU MA TA<4><STEAM_1:1:231069809><>" connected, address ""
+L 04/08/2022 - 19:40:38: World triggered "Round_Start"
+L 04/08/2022 - 19:40:38: server_cvar: "sv_alltalk" "1"
+L 04/08/2022 - 19:40:38: "MUIE LU MA TA<4><STEAM_1:1:231069809><>" STEAM USERID validated
+L 04/08/2022 - 19:40:44: "MUIE LU MA TA<4><STEAM_1:1:231069809><>" entered the game
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809>" switched from team <Unassigned> to <CT>
+L 04/08/2022 - 19:40:51: World triggered "Game_Commencing"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:51: Starting Freeze period
+L 04/08/2022 - 19:40:51: World triggered "Match_Start" on "de_dust"
+L 04/08/2022 - 19:40:51: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 19:40:51: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 19:40:51: MatchStatus: Score: 0:0 on map "de_dust" RoundsPlayed: -1
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:52: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 19:40:53: World triggered "Round_Start"
+L 04/08/2022 - 19:41:03: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!shop"
+L 04/08/2022 - 19:41:13: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "s"
+L 04/08/2022 - 19:41:15: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 19:41:27: Starting Freeze period
+L 04/08/2022 - 19:41:27: World triggered "Match_Start" on "de_dust"
+L 04/08/2022 - 19:41:27: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 19:41:27: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 19:41:27: MatchStatus: Score: 0:0 on map "de_dust" RoundsPlayed: 0
+L 04/08/2022 - 19:41:32: World triggered "Round_Start"
+L 04/08/2022 - 19:41:58: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "s"
+L 04/08/2022 - 19:42:00: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "mama ce fain e coaie"
+L 04/08/2022 - 19:42:02: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 19:42:13: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 19:43:05: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!"
+L 04/08/2022 - 19:43:15: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 19:43:27: "MUIE LU MA TA<4><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 19:43:27: Team "CT" triggered "SFUI_Notice_Target_Saved" (CT "1") (T "0")
+L 04/08/2022 - 19:43:27: Team "CT" scored "1" with "1" players
+L 04/08/2022 - 19:43:27: Team "TERRORIST" scored "0" with "0" players
+L 04/08/2022 - 19:43:27: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 19:43:27: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 19:43:27: MatchStatus: Score: 1:0 on map "de_dust" RoundsPlayed: 1
+L 04/08/2022 - 19:43:27: World triggered "Round_End"
+L 04/08/2022 - 19:43:34: Starting Freeze period
+L 04/08/2022 - 19:43:34: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 19:43:34: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 19:43:34: MatchStatus: Score: 1:0 on map "de_dust" RoundsPlayed: 1
+L 04/08/2022 - 19:43:39: World triggered "Round_Start"
+L 04/08/2022 - 19:44:00: [META] Loaded 0 plugins (1 already loaded)
+L 04/08/2022 - 19:44:00: [META] Loaded 0 plugins (1 already loaded)
+L 04/08/2022 - 19:44:00: Log file closed

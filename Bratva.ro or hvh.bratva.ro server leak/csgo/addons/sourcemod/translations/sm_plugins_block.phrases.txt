@@ -1,0 +1,9 @@
+﻿"Phrases"
+{
+	"NoChance"
+	{
+		"en"	"ERROR"
+		"es"	"ERROR"
+		"ro"	"ERROR"
+	}
+}

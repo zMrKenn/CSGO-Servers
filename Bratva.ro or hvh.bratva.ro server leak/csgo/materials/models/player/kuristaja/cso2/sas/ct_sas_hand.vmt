@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/sas/ct_sas_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/sas/ct_sas_hand_normal"
+
+	"$phongexponent"		8.0
+	"$phongboost"		0.5
+	"$phong"			1
+
+	"$rimlight"		1
+	"$rimlightexponent"		8
+	"$rimlightboost"		0.15
+	"$rimmask"		0
+}

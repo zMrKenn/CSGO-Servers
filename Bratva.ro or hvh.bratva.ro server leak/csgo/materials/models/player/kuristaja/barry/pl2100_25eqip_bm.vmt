@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_25eqip_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\eqip_normal"
+
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost" ".15"
+	"$phongfresnelranges"	"[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$nocull" "1"
+}

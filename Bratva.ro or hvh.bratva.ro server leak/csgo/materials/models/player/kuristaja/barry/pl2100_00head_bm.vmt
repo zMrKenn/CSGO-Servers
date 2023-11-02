@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_00head_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\head_normal2"
+
+	"$halflambert" 	"1"
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/kuristaja/barry/white2"
+	"$phongboost" ".6"
+	"$phongfresnelranges"	"[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/kuristaja/walker/walker_body"
+	"$bumpmap" "models/player/kuristaja/walker/walker_body_normal"
+
+	"$phong"			"1"
+	"$phongboost"		".2"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+
+	"$halflambert" "1"
+ 	"$lightwarptexture" "models/player/kuristaja/walker/walker_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".5"
+}

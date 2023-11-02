@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/caleon1/harleyquinn/Material__25"
+	"$bumpmap" "models/player/custom_player/caleon1/harleyquinn/Material__25_n"
+}

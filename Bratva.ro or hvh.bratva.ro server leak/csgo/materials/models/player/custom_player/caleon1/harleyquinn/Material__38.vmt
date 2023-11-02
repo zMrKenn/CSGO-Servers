@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/caleon1/harleyquinn/Material__38"
+	"$translucent" 1
+	"$nocull" 1
+}

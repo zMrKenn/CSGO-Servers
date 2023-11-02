@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Discord"
+	{
+		"en"	"{darkblue}[BRATVA] --> DISCORD LINK : {darkred}[{darkblue}  https://discord.gg/KFCJPWH7jS{darkred}  ]"
+	}
+}

@@ -1,0 +1,245 @@
+"Skins"
+{
+	"m1"
+	{
+		"name"		"Natalie"
+		"model"		"models/player/custom_player/kuristaja/cso2/natalie_santagirl/natalie.mdl"
+		"team"		"t"
+	}
+	
+	"m2"
+	{
+		"name"		"Phoenix"
+		"model"		"models/player/custom_player/kuristaja/heavy_phoenix/phoenix.mdl"
+		"team"		"t"
+	}
+	
+	"m3"
+	{
+		"name"		"HarleyQuinn"
+		"model"		"models/player/custom_player/caleon1/harleyquinn/harleyquinn.mdl"
+		"team"		"t"
+	}
+	
+	"m4"
+	{
+		"name"		"GunSlinger"
+		"model"		"models/player/custom_player/caleon1/gunslinger/gunslinger_red.mdl"
+		"team"		"t"
+	}
+	
+	"m5"
+	{
+		"name"		"StormTrooper"
+		"model"		"models/player/custom_player/kuristaja/stormtrooper/stormtrooper.mdl"
+		"team"		"t"
+	}
+	
+	"m6"
+	{
+		"name"		"Ada"
+		"model"		"models/player/custom_player/kuristaja/re6/ada/adav5.mdl"
+		"team"		"t"
+	}
+	
+	"m7"
+	{
+		"name"		"Hitler"
+		"model"		"models/player/custom_player/kuristaja/hitler/hitler.mdl"
+		"team"		"t"
+	}
+	
+	"m8"
+	{
+		"name"		"Duke"
+		"model"		"models/player/custom_player/kuristaja/duke/dukev3.mdl"
+		"team"		"t"
+	}
+	
+	"m9"
+	{
+		"name"		"DeadPool"
+		"model"		"models/player/custom_player/kuristaja/deadpool/deadpool.mdl"
+		"team"		"t"
+	}
+	
+
+	"m10"
+	{
+		"name"		"RO1"
+		"model"		"models/player/custom_player/legacy/tm_balkan_varianti.mdl"
+		"team"		"t"
+	}
+	
+	"m11"
+	{
+		"name"		"RO2"
+		"model"		"models/player/custom_player/legacy/tm_balkan_variantj.mdl"
+		"team"		"t"
+	}
+	
+	"m12"
+	{
+		"name"		"RO3"
+		"model"		"models/player/custom_player/legacy/tm_leet_varianth.mdl"
+		"team"		"t"
+	}
+	
+	"m13"
+	{
+		"name"		"RO4"
+		"model"		"models/player/custom_player/legacy/tm_leet_variantg.mdl"
+		"team"		"t"
+	}
+	
+	"m14"
+	{
+		"name"		"RO5"
+		"model"		"models/player/custom_player/legacy/tm_leet_varianti.mdl"
+		"team"		"t"
+	}
+	
+	"m15"
+	{
+		"name"		"RO6"
+		"model"		"models/player/custom_player/legacy/tm_balkan_variantg.mdl"
+		"team"		"t"
+	}
+	
+	"m16"
+	{
+		"name"		"RO7"
+		"model"		"models/player/custom_player/legacy/tm_balkan_varianth.mdl"
+		"team"		"t"
+	}
+	
+	"m17"
+	{
+		"name"		"RO8"
+		"model"		"models/player/custom_player/legacy/tm_phoenix_variantg.mdl"
+		"team"		"t"
+	}
+	
+	"m18"
+	{
+		"name"		"Spy"
+		"model"		"models/player/custom_player/kuristaja/tf2/spy/spy_bluv2.mdl"
+		"team"		"ct"
+	}
+	
+	"m19"
+	{
+		"name"		"Guard"
+		"model"		"models/player/custom_player/kuristaja/jailbreak/guard3/guard3.mdl"
+		"team"		"ct"
+	}
+	
+	"m20"
+	{
+		"name"		"GunSlinger"
+		"model"		"models/player/custom_player/caleon1/gunslinger/gunslinger_blue.mdl"
+		"team"		"ct"
+	}
+	
+	
+	"m21"
+	{
+		"name"		"Lincoln"
+		"model"		"models/player/custom_player/kuristaja/cso2/lincoln/lincoln.mdl"
+		"team"		"ct"
+	}
+	
+	"m22"
+	{
+		"name"		"Choi"
+		"model"		"models/player/custom_player/kuristaja/cso2/choi/choi.mdl"
+		"team"		"ct"
+	}
+	
+	"m23"
+	{
+		"name"		"NanoSuit"
+		"model"		"models/player/custom_player/kuristaja/nanosuit/nanosuitv3.mdl"
+		"team"		"ct"
+	}
+	
+    "m24"
+	{
+		"name"		"Smith"
+		"model"		"models/player/custom_player/kuristaja/agent_smith/smith.mdl"
+		"team"		"ct"
+	}
+	
+	"m25"
+	{
+		"name"		"RO1"
+		"model"		"models/player/custom_player/legacy/ctm_st6_variante.mdl"
+		"team"		"ct"
+	}
+	
+	"m26"
+	{
+		"name"		"RO2"
+		"model"		"models/player/custom_player/legacy/ctm_fbi_variantg.mdl"
+		"team"		"ct"
+	}
+	
+	"m27"
+	{
+		"name"		"RO3"
+		"model"		"models/player/custom_player/legacy/ctm_sas_variantf.mdl"
+		"team"		"ct"
+	}
+	
+	"m28"
+	{
+		"name"		"RO4"
+		"model"		"models/player/custom_player/legacy/ctm_st6_variantg.mdl"
+		"team"		"ct"
+	}
+	
+	"m29"
+	{
+		"name"		"RO5"
+		"model"		"models/player/custom_player/legacy/ctm_st6_varianti.mdl"
+		"team"		"ct"
+	}
+	
+	"m30"
+	{
+		"name"		"RO6"
+		"model"		"models/player/custom_player/legacy/ctm_st6_variantm.mdl"
+		"team"		"ct"
+	}
+	
+	"m31"
+	{
+		"name"		"RO7"
+		"model"		"models/player/custom_player/legacy/ctm_st6_variantk.mdl"
+		"team"		"ct"
+	}
+	
+	"m32"
+	{
+		"name"		"RO8"
+		"model"		"models/player/custom_player/legacy/ctm_fbi_variantf.mdl"
+		"team"		"ct"
+	}
+	
+	"m33"
+	{
+		"name"		"RO9"
+		"model"		"models/player/custom_player/legacy/ctm_fbi_variantb.mdl"
+		"team"		"ct"
+	}
+	
+	"m34"
+	{
+		"name"		"RO10"
+		"model"		"models/player/custom_player/legacy/ctm_fbi_varianth.mdl"
+		"team"		"ct"
+	}
+	
+	
+	
+}

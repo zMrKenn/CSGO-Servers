@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	// MAGNUM METAL
+	
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_27mgnm_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\mgnm_normal"
+
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost" ".7"
+	"$phongfresnelranges"	"[5 6 8]"
+
+	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "0.35"
+	"$envmapsaturation" "0.2"
+}

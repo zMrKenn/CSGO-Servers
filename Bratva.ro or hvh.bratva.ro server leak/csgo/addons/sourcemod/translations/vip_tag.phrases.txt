@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"NotChosen"
+	{
+		"ru"		"Не выбрано"
+		"en"		"Not chosen"
+	}
+
+	"TagsNotFound"
+	{
+		"ru"		"Не найдено тегов"
+		"en"		"Tags not found"
+	}
+
+	"SetTag"
+	{
+		"ru"		"Вы установили тег"
+		"en"		"You have set the tag"
+	}
+	
+	"EnterValueInChat"
+	{
+		"ru"		"Введите в чат значение\nи нажмите"
+		"en"		"Type value to chat\nand hit"
+	}
+
+	"Value"
+	{
+		"ru"		"Вы ввели"
+		"en"		"You entered"
+	}
+
+	"Confirm"
+	{
+		"ru"		"Подтвердить"
+		"en"		"Confirm"
+	}
+
+	"Cancel"
+	{
+		"ru"		"Отменить"
+		"en"		"Cancel"
+	}
+}

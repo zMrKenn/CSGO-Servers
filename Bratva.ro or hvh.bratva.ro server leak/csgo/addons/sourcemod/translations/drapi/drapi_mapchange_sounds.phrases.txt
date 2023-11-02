@@ -1,0 +1,45 @@
+﻿//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+	"Enabled"
+	{
+		"fr"			"Activé"
+		"en"			"Enabled"
+	}
+
+	"Disabled"
+	{
+		"fr"			"Désactivé"
+		"en"			"Disabled"
+	}
+
+	"MenuMapchangeSounds_TITLE"
+	{
+		"fr"			"Menu: Sons change map"
+		"en"			"Menu: Map change songs"
+	}
+
+	"MenuMapchangeSounds_MAPCHANGE_MENU_TITLE"
+	{
+		"#format"		"{1:s}"
+		"fr"			"Changement de map: {1}"
+		"en"			"Map change: {1}"
+	}
+
+	"Title song"
+	{
+		"#format"		"{1:s}"
+		"fr"			"{PINK}{1}{NORMAL} sera joué pendant le changement de map."
+		"en"			"{PINK}{1}{NORMAL} will be played while change map."
+	}
+
+}
+

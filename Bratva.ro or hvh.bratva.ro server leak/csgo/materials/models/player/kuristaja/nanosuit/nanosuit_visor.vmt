@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/player/kuristaja/nanosuit/nanosuit_visor"
+	"$bumpmap" 	"models/player/kuristaja/nanosuit/nanosuit_visor_normal"
+
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint" 			"[.9 .4 .4]" 
+	"$envmapcontrast" 			"0"
+}

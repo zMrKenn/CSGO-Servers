@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/big_boss/sna0_cnt1_def_bsm"
+    	"$bumpmap"    "models/player/kuristaja/big_boss/sna0_cnt1_def_nrm"
+
+	"$lightwarptexture" 	"models/player/kuristaja/big_boss/clothes_wrp"
+	"$phong" "1"
+	"$phongexponenttexture" "models/player/kuristaja/big_boss/white2"
+	"$phongexponent" 7
+	"$phongboost" "0.55"
+	"$phongfresnelranges"	"[5 6 8]"
+	"$PhongAlbedoTint" "1"
+}
+
+

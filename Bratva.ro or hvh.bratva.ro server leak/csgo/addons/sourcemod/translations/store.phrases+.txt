@@ -1,0 +1,9 @@
+
+	"Particles"
+	{
+		"en" "Trail:"
+	}
+	"Aura"
+	{
+		"en" "Aura:"
+	}

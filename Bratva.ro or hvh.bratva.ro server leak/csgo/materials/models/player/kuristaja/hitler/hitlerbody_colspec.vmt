@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/hitler/hitlerbody_colspec"
+	"$bumpmap" "models/player/kuristaja/hitler/hitlerbody_normal"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".08"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent" 			"35"
+	"$rimlightboost"			".5"
+}

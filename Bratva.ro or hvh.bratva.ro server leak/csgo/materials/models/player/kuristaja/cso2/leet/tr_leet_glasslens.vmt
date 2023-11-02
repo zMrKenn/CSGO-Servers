@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/leet/tr_leet_glasslens"
+      	 "$bumpmap" "models/player/kuristaja/cso2/leet/tr_leet_glasslens_normal"	
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint"		"[ .5 .5 .5 ]"
+	"$envmapcontrast"		0.25
+	"$envmapsaturation"	0.1
+	"$envmapboost"		1
+
+	"$phongexponent"		50
+	"$phongboost"		1
+	"$phong"			1
+	"$bumpscale"		1
+	"$phongtint" 		"[1 1 1]"
+
+	"$rimlight"		1
+	"$rimlightexponent"		5
+	"$rimlightboost"		15
+	//"$rimlightcolorblend"	1.0
+	"$rimmask"		0
+
+	"$normalmapalphaenvmapmask" 1
+	"$specularmask" 		"255"
+        	"$diffusecontrast" 		 0.25
+
+	"$phongfresnelranges"	"[1 8 16]"
+
+	 $translucent  1
+	 $nocull 1
+	 //$alphatest 1
+	 $ALPHATESTREFERENCE	0.1
+}

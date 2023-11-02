@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture"        "models\player\kuristaja\heavy_phoenix\tm_heavyphoenix_mask_color"
+	"$bumpmap"            "models\player\kuristaja\heavy_phoenix\tm_heavyphoenix_mask_normal"
+	"$model"              "1"
+	"$phong"              "1"
+	"$nodecal"            1
+	"$phongboost"         "10"
+	"$phongexponent"      "32"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+	"$rimlight"           "1"
+	"$rimlightexponent"   "12"
+	"$rimlightboost"      ".7"
+	"$halflambert"        1
+}

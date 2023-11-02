@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// WHITES
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_91eye_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\eye_normal"
+
+	"$phong" 	"1"
+	"$phongexponent" "300"
+	"$phongboost"	"60"
+	"$phongfresnelranges" "[.05 .1 .2]"
+
+}

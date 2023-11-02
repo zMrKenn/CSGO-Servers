@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/emma/ct_emma_hair"	
+	"$bumpmap" "models/player/kuristaja/cso2/emma/ct_emma_hair_normal"
+
+	"$phong"			1    
+	"$phongboost"		1      
+	"$phongexponent"		12  
+	"$phongFresnelboost"	2     
+	"$phongFresnelexponent"	3   
+	"$phongtint"   "[1 1 1]"	     
+
+	"$rimlight"		1
+	"$rimlightexponent"		4
+	"$rimlightboost"		1
+	//"$rimlightcolorblend"	1.0
+	"$rimmask"		0
+
+	 //$translucent  1
+	 $nocull 1
+	 $alphatest 1
+	 $ALPHATESTREFERENCE	0.1
+}

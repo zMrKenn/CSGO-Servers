@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// CRYFIBRIL
+
+	"$basetexture" 			"models/player/kuristaja/nanosuit/nanosuit_hands"
+	"$bumpmap" 			"models/player/kuristaja/nanosuit/nanosuit_hands_normal"
+
+	"$phong" 			"1"
+	"$basemapalphaphongmask" 		"1"
+	"$phongexponent" 			"30"
+	"$phongboost"			".3"
+}

@@ -1,0 +1,154 @@
+// ====================================================================
+// Hattrick's Server Core
+// ====================================================================
+
+
+//
+// Daca sau nu sa seteze mp_maxrounds 40 pentru Dust2,
+// mp_maxrounds 30 pentru Mirage/ Inferno,
+// si mp_maxrounds 20 pentru toate celelalte.
+//
+
+"m_bVariableMaxRounds"			"0"
+
+
+//
+// Daca sau nu sa activeze sm_slap.
+//
+
+"m_bEnableSlapCmd"			"1"
+
+
+//
+// Daca sau nu sa activeze sm_kick.
+//
+
+"m_bEnableKickCmd"			"1"
+
+
+//
+// Daca sau nu sa filtreze comanda de cumparare a armelor,
+// la inceputul rundei.
+//
+// AWP - maxim 33% din echipa
+// G3SG1/ SCAR-20 - maxim 20% din echipa
+//
+
+"m_bFilterBuyCommand"			"1"
+
+
+//
+// Numar maxim de jucatori pe echipa.
+//
+
+"m_iTeamSpawnPoints"			"16"
+
+
+//
+// SV_VisibleMaxPlayers se calculeaza dupa urmatoarea formula.
+//
+// "X"		SV_VisibleMaxPlayers = T_Spawns + CT_Spawns + X
+//
+// ... Locuri dedicate spectatorilor ... (nu este ceva obligatoriu)
+//
+
+"m_iAmtToAppendToVisMaxPlrs"		"0"
+
+
+//
+// Daca sau nu sa se dea vot automat pentru harti.
+//
+
+"m_bEnableAutoMapVote"			"1"
+
+
+//
+// Daca sau nu sa faca solizi coechipierii cat timp jucatorii in viata nu depasesc numarul de 24
+//
+
+"m_bVariableSolidTeammates"		"0"
+
+
+//
+// Daca sau nu sa dezactiveze "I'm Throwing A Grenade" cand in viata sunt peste 18 jucatori
+//
+
+"m_bVariableGrenadeRadio"		"1"
+
+
+//
+// Pentru Arena 1 VS 1 mod, dupa cate secunde poate incepe votul automat de harti?
+// 60 = 1 minut
+// 300 = 5 minute
+// 600 = 10 minute
+// 900 = 15 minute
+// 1200 = 20 minute
+// 1500 = 25 minute
+// 1800 = 30 minute
+//
+
+"m_iAMSecondsMapVoteDelay"			"300"
+
+
+
+
+//
+// Daca sau nu sa afiseze mesaje in chat despre victima, atacatorului?
+//
+
+"m_bEnableKillerChatInfo"			"1"
+
+
+
+//
+// Daca sau nu sa afiseze mesaje in chat despre atacator, victimei?
+//
+
+"m_bEnableVictimChatInfo"			"1"
+
+
+
+
+//
+// Poate rula sunete daca are acces la comanda urmatoare...
+//
+
+"m_szAccessToPlaySankSoundsCheck"	"sm_cvar"
+
+
+
+//
+// Poate rula ORICATE sunete DORESTE daca are acces la comanda urmatoare...
+//
+
+"m_szAccessToAvoidSankSoundsCheck"	"sm_cvar"
+
+
+
+//
+// Daca nu are acces la comanda de mai sus, poate rula doar X sunete pe runda...
+//
+
+"m_uMaxSankSoundsPerRound"			"0"
+
+
+
+
+//
+// Daca sau nu sa lase jucatorii non-OWNER sa faca Bunny Hop in mod automat (SPACE/ =HOLD=)
+//
+
+
+"m_bEnableBHop"						"0"
+
+
+
+//
+// Daca are imunitate mai mare sau egala ca si aceasta, poate rula sunete nelimitate... cu exceptia celor
+// de forma 36120359...
+//
+
+"m_uMinImmunityRequired"			"80"
+
+
+

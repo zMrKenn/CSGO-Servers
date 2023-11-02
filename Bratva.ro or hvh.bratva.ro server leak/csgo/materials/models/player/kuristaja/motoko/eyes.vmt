@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+    $basetexture "models/player/kuristaja/motoko/face"
+    $bumpmap "models/player/kuristaja/motoko/face_normal"
+
+    $phong 1
+    $phongfresnelranges "[0.05 0.05 1]"
+    $phongexponent 5
+    $phongboost 1
+
+}

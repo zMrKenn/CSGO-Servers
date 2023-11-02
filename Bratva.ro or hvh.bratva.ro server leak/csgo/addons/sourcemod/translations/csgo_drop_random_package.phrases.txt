@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"player_drop_speed"
+	{
+		"#format"		"{1:N}"
+		"en"			"Player {1} lost a Speed Pack!"
+	}
+	"player_pickup_speed"
+	{
+		"en"			"You picked up a Speed Pack. You can run faster now!"
+	}
+	"player_drop_health"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"			"Player {1} lost a HealthPack with {2} !"
+	}
+	"player_pickup_health"
+	{
+		"#format"		"{1:d}"
+		"en"			"You picked up a HealthPack with {1} !"
+	}
+	"player_drop_grenade"
+	{
+		"#format"		"{1:N}"
+		"en"			"Player {1} lost a 2 HEGrenades!"
+	}
+	"player_pickup_grenade"
+	{
+		"en"			"You picked up 2 HEGrenades!"
+	}
+}

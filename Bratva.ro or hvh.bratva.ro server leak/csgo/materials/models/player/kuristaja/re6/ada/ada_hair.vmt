@@ -1,0 +1,14 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"models/player/kuristaja/re6/ada/ada_hair" 
+	"$bumpmap" "models/player/kuristaja/re6/ada/ada_hair_normal"
+	"$translucent" "1"
+
+	"$phong"			"1"
+	"$phongboost"		".60"
+	"$phongexponent"		"30"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+	"$halflambert" "1"
+
+ 	//"$lightwarptexture" "models/player/kuristaja/re6/ada/ada_lightwarp"
+} 

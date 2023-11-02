@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/items/mushroom/eye"
+	$bumpmap "models/items/mushroom/eye_normal"
+	$phong 1
+
+	$phongexponent			18	
+	$phongboost				5.0
+	$phongfresnelranges		"[0 0.5 1]"
+}

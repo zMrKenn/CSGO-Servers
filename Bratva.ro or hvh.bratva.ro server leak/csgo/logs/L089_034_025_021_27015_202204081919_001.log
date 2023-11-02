@@ -1,0 +1,25 @@
+L 04/08/2022 - 19:19:06: Log file started (file "logs/L089_034_025_021_27015_202204081919_001.log") (game "/home/client4775/service5731/csgo/csgo") (version "8515")
+L 04/08/2022 - 19:19:06: server_cvar: "sv_airaccelerate" "500"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_player_interact_with_hostage" "300"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_hostage_interaction" "600"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_rescued_hostage" "600"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 04/08/2022 - 19:19:06: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_freezetime" "5"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_maxrounds" "30"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_roundtime" "1.55"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_roundtime_hostage" "1.92"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_roundtime_defuse" "1.92"
+L 04/08/2022 - 19:19:06: server_cvar: "mp_timelimit" "0"
+L 04/08/2022 - 19:19:06: server_cvar: "sv_deadtalk" "1"
+L 04/08/2022 - 19:19:11: "GOTV<2><BOT><>" entered the game
+L 04/08/2022 - 19:19:11: World triggered "Round_Start"
+L 04/08/2022 - 19:19:11: "MUIE LU MA TA<3><STEAM_1:1:231069809><>" STEAM USERID validated
+L 04/08/2022 - 19:19:11: server_cvar: "sv_alltalk" "1"
+L 04/08/2022 - 19:19:21: [META] Loaded 0 plugins (1 already loaded)
+L 04/08/2022 - 19:19:21: "MUIE LU MA TA<3><STEAM_1:1:231069809><>" disconnected (reason "Server shutting down")
+L 04/08/2022 - 19:19:21: "GOTV<2><BOT><>" disconnected (reason "Server shutting down")
+L 04/08/2022 - 19:19:22: server_message: "quit"
+L 04/08/2022 - 19:19:22: Log file closed

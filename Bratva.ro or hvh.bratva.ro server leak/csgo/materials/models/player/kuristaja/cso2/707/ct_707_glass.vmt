@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/707/ct_707_glass"
+        	"$bumpmap" "models/player/kuristaja/cso2/707/ct_707_glass_normal"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint"		"[ .08 .08 .08]"
+	"$envmapcontrast"		0.5
+	"$envmapsaturation"	0.6
+	"$envmapboost"		0.6
+
+	"$phong"			1
+	"$phongboost"		6.0
+	"$phongexponent"		10
+	"$phongFresnelboost"	3
+	"$phongFresnelexponent"	9
+	"$phongtint"  		 "[0.15 0.15 0.15]"
+
+	$translucent  		1
+}

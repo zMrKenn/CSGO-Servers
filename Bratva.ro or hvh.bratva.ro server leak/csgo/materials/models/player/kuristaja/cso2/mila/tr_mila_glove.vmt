@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/mila/tr_mila_glove"
+	"$bumpmap"		"models/player/kuristaja/cso2/mila/tr_mila_glove_normal"
+
+	"$phongexponent"		17
+	"$phongboost"		.8
+	"$phong"			1
+
+	"$rimlight"		1
+	"$rimlightexponent"		2
+	"$rimlightboost"		0.4
+	//"$rimlightcolorblend"	1
+	"$rimmask"		0
+}

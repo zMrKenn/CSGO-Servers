@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"Restart_Coutdown"
+	{
+		"#format"	"{1:d}"
+		"en"		"Server will restart in {1} seconds"
+		"pl"		"Server zostanie zrestartowany za {1} sekund"
+		"fr"		"Le serveur redémarre dans {1} secondes"
+	}
+	
+	"Restart_End"
+	{
+		"en"		"Server is restarting NOW!"
+		"pl"		"Serwer sie teraz restartuje!"
+		"fr"		"Le serveur redémarre MAINTENANT!"
+	}
+	
+	"Kick_Message"
+	{
+		"en"		"Server is restarting... Back in 30 seconds"
+		"pl"		"Serwer zrestartowany... Wracamy za 30 sekund"
+		"fr"		"Le serveur redémarre... De retour dans 30 secondes"
+	}
+}

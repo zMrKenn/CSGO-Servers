@@ -1,0 +1,946 @@
+"Phrases"
+
+{
+
+	"choose mission: title"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Выберите миссию:\n "
+
+		"en"		"Choose mission:\n "
+
+	}
+
+	
+
+	"mission details: title"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Информация о миссии: "
+
+		"en"		"Information about mission: "
+
+	}
+
+	"mission details: description"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Описание: "
+
+		"en"		"Description: "
+
+	}
+
+	"mission details: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Награда: "
+
+		"en"		"Reward: "
+
+	}
+
+	"mission details: progress"
+
+	{
+
+		"#format"	"{1:d},{2:d}"
+
+		"ru"		"Прогресс: {1}/{2}"
+
+		"en"		"Progress: {1}/{2}"
+
+	}
+
+	"mission details: accept"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Принять миссию"
+
+		"en"		"Accept mission"
+
+	}
+
+	"mission details: deny"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Отказаться от задания"
+
+		"en"		"Deny mission"
+
+	}
+
+	"mission details: exit"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Выход"
+
+		"en"		"Exit"
+
+	}
+
+	
+
+	
+
+	
+
+	"heavy damage: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Разрушитель"
+
+		"en"		"Heavy damage"
+
+	}
+
+	"heavy damage: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Нанесите больше 100 урона {1} раз"
+
+		"en"		"Deal more than 100 damage {1} times"
+
+	}
+
+	"heavy damage: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"heavy damage: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Разрушитель"
+
+		"en"		"Heavy damage"
+
+	}
+
+	"heavy damage: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Нанесите больше 100 урона {1} раз"
+
+		"en"		"Deal more than 100 damage {1} times"
+
+	}
+
+	"heavy damage: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"knife maniac: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Любитель ножей"
+
+		"en"		"Knife maniac"
+
+	}
+
+	"knife maniac: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Ударьте врага {1} раз ножом"
+
+		"en"		"Hit enemy {1} times with knife"
+
+	}
+
+	"knife maniac: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"200 кредитов"
+
+		"en"		"200 credits"
+
+	}
+
+	
+
+	"suicide master: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Мастер самоубийц"
+
+		"en"		"Suicide master"
+
+	}
+
+	"suicide master: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Умрите {1} раз"
+
+		"en"		"Die {1} times"
+
+	}
+
+	"suicide master: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"300 кредитов"
+
+		"en"		"300 credits"
+
+	}
+
+	
+
+	"eagle eye: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Орлиный глаз"
+
+		"en"		"Eagle eye"
+
+	}
+
+	"eagle eye: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Убейте врага из снайперской винтовки {1} раз"
+
+		"en"		"Kill {1} enemy from sniper rifle"
+
+	}
+
+	"eagle eye: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Grenader: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Гренадёр"
+
+		"en"		"Grenader"
+
+	}
+
+	"Grenader: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Взорвите гранатой {1} врагов"
+
+		"en"		"Kill {1} times with hegrenade"
+
+	}
+
+	"Grenader: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Blindman: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Слепец"
+
+		"en"		"Blindman"
+
+	}
+
+	"Blindman: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Ослепните {1} раз"
+
+		"en"		"Get blinded {1} times"
+
+	}
+
+	"Blindman: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"50 кредитов"
+
+		"en"		"10 credits"
+
+	}
+
+	
+
+	"Butcher: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Мясник"
+
+		"en"		"Butcher"
+
+	}
+
+	"Butcher: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Зарежьте {1} врагов"
+
+		"en"		"Kill {1} enemy with knife"
+
+	}
+
+	"Butcher: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Damage dealer: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Большой урон"
+
+		"en"		"Damage dealer"
+
+	}
+
+	"Damage dealer: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Нанесите больше 50 урона {1} раз"
+
+		"en"		"Deal more than 50 damage {1} times"
+
+	}
+
+	"Damage dealer: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Oneshot: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Один выстрел"
+
+		"en"		"Oneshot"
+
+	}
+
+	"Oneshot: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Убейте {1} врагов выстрелом в голову"
+
+		"en"		"Kill {1} times with headshot"
+
+	}
+
+	"Oneshot: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Shooter: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Стрелок"
+
+		"en"		"Shooter"
+
+	}
+
+	"Shooter: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Выстрелите {1} раз"
+
+		"en"		"Shoot {1} times"
+
+	}
+
+	"Shooter: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Blindluck: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Слепая удача"
+
+		"en"		"Blindluck"
+
+	}
+
+	"Blindluck: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Нанесите {1} раз ровно 100 урона"
+
+		"en"		"Deal 100 damage {1} times"
+
+	}
+
+	"Blindluck: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Assasin: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Убийца"
+
+		"en"		"Assasin"
+
+	}
+
+	"Assasin: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Убейте {1} врагов"
+
+		"en"		"Kill {1} enemy"
+
+	}
+
+	"Assasin: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"200 кредитов"
+
+		"en"		"200 credits"
+
+	}
+
+	
+
+	"Buckshot: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Мелкая дробь"
+
+		"en"		"Buckshot"
+
+	}
+
+	"Buckshot: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Попадите во врага {1} раз с дробовика"
+
+		"en"		"Hit enemy {1} times with shotgun"
+
+	}
+
+	"Buckshot: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"50 кредитов"
+
+		"en"		"50 credits"
+
+	}
+
+	
+
+	"Bad luck: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Плохая удача"
+
+		"en"		"Bad luck"
+
+	}
+
+	"Bad luck: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Нанесите единицу урона за выстрел {1} раз"
+
+		"en"		"Deal 1 damage {1} times"
+
+	}
+
+	"Bad luck: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Dominator: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Доминатор"
+
+		"en"		"Dominator"
+
+	}
+
+	"Dominator: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Получить доминирование {1} раз"
+
+		"en"		"Dominate {1} times"
+
+	}
+
+	"Dominator: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	"Avenger: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Мститель"
+
+		"en"		"Avenger"
+
+	}
+
+	"Avenger: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Отомостите {1} раз"
+
+		"en"		"Avenger {1} times"
+
+	}
+
+	"Avenger: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Disarmor: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Крушитель брони"
+
+		"en"		"Disarmor"
+
+	}
+
+	"Disarmor: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Повредите броню врагу {1} раз"
+
+		"en"		"Do damage {1} times to enemy armor"
+
+	}
+
+	"Disarmor: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Bomberman: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Бомбермэн"
+
+		"en"		"Bomberman"
+
+	}
+
+	"Bomberman: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Установите {1} бомб"
+
+		"en"		"Plant {1} bombs"
+
+	}
+
+	"Bomberman: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+
+	"Defuser: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Сапёр"
+
+		"en"		"Defuser"
+
+	}
+
+	"Defuser: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Разминируйте {1} бомб"
+
+		"en"		"Defuse {1} bomb"
+
+	}
+
+	"Defuser: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"150 кредитов"
+
+		"en"		"150 credits"
+
+	}
+
+	
+
+	
+
+	"Savior: name"
+
+	{
+
+		"#format"	""
+
+		"ru"		"Спаситель"
+
+		"en"		"Savior"
+
+	}
+
+	"Savior: description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		"Спасите {1} заложников"
+
+		"en"		"Save {1} hostages"
+
+	}
+
+	"Savior: reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"100 кредитов"
+
+		"en"		"100 credits"
+
+	}
+
+	
+	
+
+	": name"
+
+	{
+
+		"#format"	""
+
+		"ru"		""
+
+		"en"		""
+
+	}
+
+	": description"
+
+	{
+
+		"#format"	"{1:d}"
+
+		"ru"		""
+
+		"en"		""
+
+	}
+
+	": reward"
+
+	{
+
+		"#format"	""
+
+		"ru"		"5000 кредитов"
+
+		"en"		"5000 credits"
+
+	}
+
+}

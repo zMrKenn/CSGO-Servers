@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/natalie_santagirl/tr_natary01_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/natalie_santagirl/tr_natary01_hand_normal"
+
+	"$phongexponent"		6.000000
+	"$phongboost"		0.60000
+	"$phong"			1
+
+	//"$rimlight"		1
+	"$rimlightexponent"		2.000000
+	"$rimlightboost"		0.2000000
+	"$rimlightcolorblend"	1.0
+	"$rimmask"		0
+
+
+	 $translucent  1
+	 $nocull 1
+	// $alphatest 1
+	//$ALPHATESTREFERENCE	0.1
+
+	"$phongtint" 		"[1 1 1]"
+
+}

@@ -1,0 +1,317 @@
+L 04/08/2022 - 20:44:38: Log file started (file "logs/L089_034_025_021_27015_202204082044_001.log") (game "/home/client4775/service5731/csgo/csgo") (version "8515")
+L 04/08/2022 - 20:44:38: server_cvar: "sv_airaccelerate" "500"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_player_interact_with_hostage" "300"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_elimination_hostage_map_t" "3000"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_elimination_hostage_map_ct" "3000"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_hostage_interaction" "600"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_rescued_hostage" "600"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_win_by_defusing_bomb" "3500"
+L 04/08/2022 - 20:44:38: server_cvar: "cash_team_win_by_hostage_rescue" "2900"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_freezetime" "5"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_maxrounds" "30"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_roundtime" "1.55"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_roundtime_hostage" "1.92"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_roundtime_defuse" "1.92"
+L 04/08/2022 - 20:44:38: server_cvar: "mp_timelimit" "0"
+L 04/08/2022 - 20:44:38: server_cvar: "sv_deadtalk" "1"
+L 04/08/2022 - 20:44:42: "GOTV<2><BOT><>" entered the game
+L 04/08/2022 - 20:44:42: World triggered "Round_Start"
+L 04/08/2022 - 20:44:42: server_cvar: "sv_alltalk" "1"
+L 04/08/2022 - 20:44:49: "Serby-<6><STEAM_1:1:636507947><>" entered the game
+L 04/08/2022 - 20:44:49: "MUIE LU MA TA<12><STEAM_1:1:231069809><>" entered the game
+L 04/08/2022 - 20:44:51: "nu<15><STEAM_1:0:625971129><>" entered the game
+L 04/08/2022 - 20:44:56: "nu<15><STEAM_1:0:625971129>" switched from team <Unassigned> to <TERRORIST>
+L 04/08/2022 - 20:44:56: World triggered "Game_Commencing"
+L 04/08/2022 - 20:44:57: Starting Freeze period
+L 04/08/2022 - 20:44:57: World triggered "Match_Start" on "de_mirage"
+L 04/08/2022 - 20:44:57: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:44:57: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:44:57: MatchStatus: Score: 0:0 on map "de_mirage" RoundsPlayed: -1
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:57: "nu<15><STEAM_1:0:625971129><TERRORIST>" purchased "unknown"
+L 04/08/2022 - 20:44:59: World triggered "Round_Start"
+L 04/08/2022 - 20:45:06: "Serby-<6><STEAM_1:1:636507947>" switched from team <Unassigned> to <CT>
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809>" switched from team <Unassigned> to <CT>
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:08: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "unknown"
+L 04/08/2022 - 20:45:14: "nu<15><STEAM_1:0:625971129><TERRORIST>" disconnected (reason "nu timed out")
+L 04/08/2022 - 20:45:14: "nu<15><STEAM_1:0:625971129><TERRORIST>" [1029 -1392 -122] committed suicide with "world"
+L 04/08/2022 - 20:45:14: "nu<15><STEAM_1:0:625971129>" switched from team <TERRORIST> to <Unassigned>
+L 04/08/2022 - 20:45:28: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "ba"
+L 04/08/2022 - 20:45:31: Starting Freeze period
+L 04/08/2022 - 20:45:31: World triggered "Match_Start" on "de_mirage"
+L 04/08/2022 - 20:45:31: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:45:31: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:45:31: MatchStatus: Score: 0:0 on map "de_mirage" RoundsPlayed: 0
+L 04/08/2022 - 20:45:31: "Serby-<6><STEAM_1:1:636507947><CT>" purchased "deagle"
+L 04/08/2022 - 20:45:32: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "sa mi bag pula"
+L 04/08/2022 - 20:45:33: "Serby-<6><STEAM_1:1:636507947>" switched from team <CT> to <TERRORIST>
+L 04/08/2022 - 20:45:33: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [-1972 -1988 -223] committed suicide with "world"
+L 04/08/2022 - 20:45:33: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "1") (T "0")
+L 04/08/2022 - 20:45:33: Team "CT" scored "1" with "1" players
+L 04/08/2022 - 20:45:33: Team "TERRORIST" scored "0" with "1" players
+L 04/08/2022 - 20:45:33: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:45:33: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:45:33: MatchStatus: Score: 1:0 on map "de_mirage" RoundsPlayed: 1
+L 04/08/2022 - 20:45:33: World triggered "Round_End"
+L 04/08/2022 - 20:45:36: World triggered "Round_Start"
+L 04/08/2022 - 20:45:36: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "ia scrie ma ceva"
+L 04/08/2022 - 20:45:40: Starting Freeze period
+L 04/08/2022 - 20:45:41: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:45:41: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:45:41: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:45:41: MatchStatus: Score: 1:0 on map "de_mirage" RoundsPlayed: 1
+L 04/08/2022 - 20:45:41: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:45:41: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "item_kevlar"
+L 04/08/2022 - 20:45:41: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:45:41: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "trt"
+L 04/08/2022 - 20:45:42: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "dmn"
+L 04/08/2022 - 20:45:43: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "asfaf"
+L 04/08/2022 - 20:45:45: World triggered "Round_Start"
+L 04/08/2022 - 20:45:46: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "vad"
+L 04/08/2022 - 20:45:49: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "ba"
+L 04/08/2022 - 20:45:50: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "da eu mesaju meu nu vad"
+L 04/08/2022 - 20:45:51: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "da?>"
+L 04/08/2022 - 20:45:58: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "plm"
+L 04/08/2022 - 20:46:03: "nu<16><STEAM_1:0:625971129><>" connected, address ""
+L 04/08/2022 - 20:46:03: "nu<16><STEAM_1:0:625971129><>" STEAM USERID validated
+L 04/08/2022 - 20:46:06: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "ai ceva sub cap"
+L 04/08/2022 - 20:46:09: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!vip"
+L 04/08/2022 - 20:46:11: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "ba da mi co si baga 16 k money a 2 a runda"
+L 04/08/2022 - 20:46:11: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 20:46:19: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [1337 -1385 -168] killed "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" [1223 -678 -159] with "deagle" (headshot)
+L 04/08/2022 - 20:46:19: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "1")
+L 04/08/2022 - 20:46:19: Team "CT" scored "1" with "1" players
+L 04/08/2022 - 20:46:19: Team "TERRORIST" scored "1" with "1" players
+L 04/08/2022 - 20:46:19: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:46:19: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:46:19: MatchStatus: Score: 1:1 on map "de_mirage" RoundsPlayed: 2
+L 04/08/2022 - 20:46:19: World triggered "Round_End"
+L 04/08/2022 - 20:46:22: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:46:26: Starting Freeze period
+L 04/08/2022 - 20:46:26: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:46:26: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:46:26: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:46:26: MatchStatus: Score: 1:1 on map "de_mirage" RoundsPlayed: 2
+L 04/08/2022 - 20:46:26: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:46:26: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:46:26: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "molotov"
+L 04/08/2022 - 20:46:26: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "smokegrenade"
+L 04/08/2022 - 20:46:28: "nu<16><STEAM_1:0:625971129><>" entered the game
+L 04/08/2022 - 20:46:28: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!ctag"
+L 04/08/2022 - 20:46:31: World triggered "Round_Start"
+L 04/08/2022 - 20:46:31: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "r"
+L 04/08/2022 - 20:46:33: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "asa"
+L 04/08/2022 - 20:46:33: "nu<16><STEAM_1:0:625971129>" switched from team <Unassigned> to <TERRORIST>
+L 04/08/2022 - 20:46:36: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "neata"
+L 04/08/2022 - 20:46:41: "nu<16><STEAM_1:0:625971129>" switched from team <TERRORIST> to <CT>
+L 04/08/2022 - 20:46:50: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "nu vad nmk"
+L 04/08/2022 - 20:46:53: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "la mn scrie cv?"
+L 04/08/2022 - 20:46:56: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "nu vad"
+L 04/08/2022 - 20:47:00: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "?"
+L 04/08/2022 - 20:47:07: "nu<16><STEAM_1:0:625971129><CT>" say "?"
+L 04/08/2022 - 20:47:09: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "doar daca sunt cu tn in chipa vad"
+L 04/08/2022 - 20:47:20: "nu<16><STEAM_1:0:625971129><CT>" say "ce sa vezi ma?"
+L 04/08/2022 - 20:47:32: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [666 -1533 -222] killed "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" [592 -1577 -200] with "taser"
+L 04/08/2022 - 20:47:32: Team "TERRORIST" triggered "SFUI_Notice_Terrorists_Win" (CT "1") (T "2")
+L 04/08/2022 - 20:47:32: Team "CT" scored "1" with "2" players
+L 04/08/2022 - 20:47:32: Team "TERRORIST" scored "2" with "1" players
+L 04/08/2022 - 20:47:32: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:47:32: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:47:32: MatchStatus: Score: 1:2 on map "de_mirage" RoundsPlayed: 3
+L 04/08/2022 - 20:47:32: World triggered "Round_End"
+L 04/08/2022 - 20:47:37: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Bomb_Begin_Plant" at bombsite A
+L 04/08/2022 - 20:47:39: Starting Freeze period
+L 04/08/2022 - 20:47:39: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:47:39: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:47:39: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:47:39: MatchStatus: Score: 1:2 on map "de_mirage" RoundsPlayed: 3
+L 04/08/2022 - 20:47:39: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "item_defuser"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "taser"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "smokegrenade"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "hegrenade"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "incgrenade"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "ssg08"
+L 04/08/2022 - 20:47:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" purchased "deagle"
+L 04/08/2022 - 20:47:41: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "ia vezi"
+L 04/08/2022 - 20:47:43: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "ai owner"
+L 04/08/2022 - 20:47:44: World triggered "Round_Start"
+L 04/08/2022 - 20:47:48: "nu<16><STEAM_1:0:625971129><CT>" say "cn?"
+L 04/08/2022 - 20:47:51: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "serby"
+L 04/08/2022 - 20:47:52: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!ctag"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "deagle"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "hegrenade"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "incgrenade"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "smokegrenade"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "taser"
+L 04/08/2022 - 20:47:55: "nu<16><STEAM_1:0:625971129><CT>" purchased "item_defuser"
+L 04/08/2022 - 20:47:55: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "am co"
+L 04/08/2022 - 20:48:02: "nu<16><STEAM_1:0:625971129><CT>" say "da"
+L 04/08/2022 - 20:48:04: "nu<16><STEAM_1:0:625971129><CT>" say "owner"
+L 04/08/2022 - 20:48:09: "nu<16><STEAM_1:0:625971129><CT>" threw hegrenade [-911 -2533 -161]
+L 04/08/2022 - 20:48:10: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "doar cu tn in echipa"
+L 04/08/2022 - 20:48:10: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/08/2022 - 20:48:10: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" [-1089 -2447 -168] killed "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [-784 -2175 -116] with "ssg08" (headshot penetrated)
+L 04/08/2022 - 20:48:10: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "2") (T "2")
+L 04/08/2022 - 20:48:10: Team "CT" scored "2" with "2" players
+L 04/08/2022 - 20:48:10: Team "TERRORIST" scored "2" with "1" players
+L 04/08/2022 - 20:48:10: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:48:10: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:48:10: MatchStatus: Score: 2:2 on map "de_mirage" RoundsPlayed: 4
+L 04/08/2022 - 20:48:10: World triggered "Round_End"
+L 04/08/2022 - 20:48:14: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!map"
+L 04/08/2022 - 20:48:15: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "Admin"
+L 04/08/2022 - 20:48:17: Starting Freeze period
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:48:17: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:48:17: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:48:17: MatchStatus: Score: 2:2 on map "de_mirage" RoundsPlayed: 4
+L 04/08/2022 - 20:48:17: "nu<16><STEAM_1:0:625971129><CT>" purchased "hegrenade"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "item_assaultsuit"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "molotov"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "smokegrenade"
+L 04/08/2022 - 20:48:17: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:48:19: "nu<16><STEAM_1:0:625971129><CT>" purchased "ssg08"
+L 04/08/2022 - 20:48:22: World triggered "Round_Start"
+L 04/08/2022 - 20:48:26: "nu<16><STEAM_1:0:625971129><CT>" [-1354 -983 -168] killed other "func_breakable<164>" [-1330 -972 -131] with "knife"
+L 04/08/2022 - 20:48:29: "MUIE LU MA TA<12><STEAM_1:1:231069809>" switched from team <CT> to <TERRORIST>
+L 04/08/2022 - 20:48:29: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" [-1659 -1803 -203] committed suicide with "world"
+L 04/08/2022 - 20:48:32: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!ctag"
+L 04/08/2022 - 20:48:35: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "t"
+L 04/08/2022 - 20:48:37: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say_team "!slay serb"
+L 04/08/2022 - 20:48:37: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/08/2022 - 20:48:37: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [1233 -1460 -104] committed suicide with "world"
+L 04/08/2022 - 20:48:37: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "3") (T "2")
+L 04/08/2022 - 20:48:37: Team "CT" scored "3" with "1" players
+L 04/08/2022 - 20:48:37: Team "TERRORIST" scored "2" with "2" players
+L 04/08/2022 - 20:48:37: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:48:37: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:48:37: MatchStatus: Score: 3:2 on map "de_mirage" RoundsPlayed: 5
+L 04/08/2022 - 20:48:37: World triggered "Round_End"
+L 04/08/2022 - 20:48:39: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "stai asa"
+L 04/08/2022 - 20:48:40: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "sa vad"
+L 04/08/2022 - 20:48:44: Starting Freeze period
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:48:44: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:48:44: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:48:44: MatchStatus: Score: 3:2 on map "de_mirage" RoundsPlayed: 5
+L 04/08/2022 - 20:48:44: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:48:44: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:48:44: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:48:44: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!vip"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "item_kevlar"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "item_assaultsuit"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "smokegrenade"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "molotov"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:48:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:48:49: World triggered "Round_Start"
+L 04/08/2022 - 20:48:52: "nu<16><STEAM_1:0:625971129><CT>" [-1525 -1004 -206] killed other "func_breakable<164>" [-1330 -972 -131] with "deagle"
+L 04/08/2022 - 20:48:52: "nu<16><STEAM_1:0:625971129><CT>" [-1525 -1004 -206] killed other "prop_dynamic<525>" [-1336 -974 -132] with "deagle" (penetrated)
+L 04/08/2022 - 20:48:56: "nu<16><STEAM_1:0:625971129><CT>" [-1922 -289 -104] killed other "prop_dynamic<417>" [-1888 -276 -72] with "knife"
+L 04/08/2022 - 20:48:59: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "!vip"
+L 04/08/2022 - 20:49:07: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:49:11: "nu<16><STEAM_1:0:625971129><CT>" [-516 -1477 -47] killed "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [-274 -1700 -94] with "ssg08" (headshot penetrated)
+L 04/08/2022 - 20:49:16: "nu<16><STEAM_1:0:625971129><CT>" say "zeus"
+L 04/08/2022 - 20:49:20: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/08/2022 - 20:49:20: "nu<16><STEAM_1:0:625971129><CT>" [-625 -1492 -137] killed "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" [-633 -1590 -104] with "taser"
+L 04/08/2022 - 20:49:20: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "4") (T "2")
+L 04/08/2022 - 20:49:20: Team "CT" scored "4" with "1" players
+L 04/08/2022 - 20:49:20: Team "TERRORIST" scored "2" with "2" players
+L 04/08/2022 - 20:49:20: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:49:20: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:49:20: MatchStatus: Score: 4:2 on map "de_mirage" RoundsPlayed: 6
+L 04/08/2022 - 20:49:20: World triggered "Round_End"
+L 04/08/2022 - 20:49:21: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "xD"
+L 04/08/2022 - 20:49:25: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!vip"
+L 04/08/2022 - 20:49:27: Starting Freeze period
+L 04/08/2022 - 20:49:27: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:49:27: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:49:27: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:49:27: MatchStatus: Score: 4:2 on map "de_mirage" RoundsPlayed: 6
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "item_kevlar"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "item_assaultsuit"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "smokegrenade"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "molotov"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:49:27: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:49:27: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:49:27: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:49:27: "nu<16><STEAM_1:0:625971129><CT>" purchased "taser"
+L 04/08/2022 - 20:49:32: World triggered "Round_Start"
+L 04/08/2022 - 20:49:37: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:49:37: "nu<16><STEAM_1:0:625971129><CT>" [-1405 -966 -168] killed other "func_breakable<164>" [-1330 -972 -131] with "ssg08"
+L 04/08/2022 - 20:49:37: "nu<16><STEAM_1:0:625971129><CT>" [-1405 -966 -168] killed other "prop_dynamic<522>" [-1336 -974 -132] with "ssg08" (penetrated)
+L 04/08/2022 - 20:49:39: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "t"
+L 04/08/2022 - 20:49:42: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!ctag'"
+L 04/08/2022 - 20:49:52: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "t"
+L 04/08/2022 - 20:49:55: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "s"
+L 04/08/2022 - 20:49:55: "mihai<17><STEAM_1:1:543026430><>" connected, address ""
+L 04/08/2022 - 20:49:56: "mihai<17><STEAM_1:1:543026430><>" STEAM USERID validated
+L 04/08/2022 - 20:49:57: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/08/2022 - 20:49:57: "nu<16><STEAM_1:0:625971129><CT>" [87 -2250 -40] killed "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [268 -2324 24] with "ssg08" (headshot penetrated)
+L 04/08/2022 - 20:49:57: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:50:05: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:50:16: "mihai<17><STEAM_1:1:543026430><>" entered the game
+L 04/08/2022 - 20:50:21: "mihai<17><STEAM_1:1:543026430>" switched from team <Unassigned> to <TERRORIST>
+L 04/08/2022 - 20:50:21: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" say "!ctag"
+L 04/08/2022 - 20:50:23: "nu<16><STEAM_1:0:625971129><CT>" [178 -2304 -40] killed "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" [-600 -1768 -116] with "ssg08" (headshot penetrated)
+L 04/08/2022 - 20:50:23: Team "CT" triggered "SFUI_Notice_CTs_Win" (CT "5") (T "2")
+L 04/08/2022 - 20:50:23: Team "CT" scored "5" with "1" players
+L 04/08/2022 - 20:50:23: Team "TERRORIST" scored "2" with "3" players
+L 04/08/2022 - 20:50:23: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:50:23: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:50:23: MatchStatus: Score: 5:2 on map "de_mirage" RoundsPlayed: 7
+L 04/08/2022 - 20:50:23: World triggered "Round_End"
+L 04/08/2022 - 20:50:23: "MUIE LU MA TA<12><STEAM_1:1:231069809><TERRORIST>" say "!admin"
+L 04/08/2022 - 20:50:23: "MUIE LU MA TA<12><STEAM_1:1:231069809>" switched from team <TERRORIST> to <CT>
+L 04/08/2022 - 20:50:25: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!ctag"
+L 04/08/2022 - 20:50:26: "mihai<17><STEAM_1:1:543026430><TERRORIST>" say "!mvpvol 0"
+L 04/08/2022 - 20:50:30: Starting Freeze period
+L 04/08/2022 - 20:50:30: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Got_The_Bomb"
+L 04/08/2022 - 20:50:30: MatchStatus: Team "CT" is unset.
+L 04/08/2022 - 20:50:30: MatchStatus: Team "TERRORIST" is unset.
+L 04/08/2022 - 20:50:30: MatchStatus: Score: 5:2 on map "de_mirage" RoundsPlayed: 7
+L 04/08/2022 - 20:50:30: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:50:30: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "deagle"
+L 04/08/2022 - 20:50:30: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:50:30: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" purchased "taser"
+L 04/08/2022 - 20:50:33: "mihai<17><STEAM_1:1:543026430><TERRORIST>" purchased "ssg08"
+L 04/08/2022 - 20:50:33: "mihai<17><STEAM_1:1:543026430><TERRORIST>" purchased "item_assaultsuit"
+L 04/08/2022 - 20:50:33: "mihai<17><STEAM_1:1:543026430><TERRORIST>" purchased "molotov"
+L 04/08/2022 - 20:50:34: "mihai<17><STEAM_1:1:543026430><TERRORIST>" purchased "smokegrenade"
+L 04/08/2022 - 20:50:34: "mihai<17><STEAM_1:1:543026430><TERRORIST>" purchased "hegrenade"
+L 04/08/2022 - 20:50:34: "nu<16><STEAM_1:0:625971129><CT>" say "osirsi best cheat"
+L 04/08/2022 - 20:50:35: World triggered "Round_Start"
+L 04/08/2022 - 20:50:37: "nu<16><STEAM_1:0:625971129><CT>" [-1593 -1092 -199] killed other "func_breakable<319>" [-1330 -972 -131] with "ssg08"
+L 04/08/2022 - 20:50:37: "nu<16><STEAM_1:0:625971129><CT>" [-1593 -1092 -199] killed other "prop_dynamic<528>" [-1336 -974 -132] with "ssg08" (penetrated)
+L 04/08/2022 - 20:50:41: "nu<16><STEAM_1:0:625971129><CT>" [-1909 -296 -113] killed other "prop_dynamic<513>" [-1888 -276 -72] with "knife"
+L 04/08/2022 - 20:50:44: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 20:50:50: "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" say "!admin"
+L 04/08/2022 - 20:50:52: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [-1070 -2506 -168] killed "MUIE LU MA TA<12><STEAM_1:1:231069809><CT>" [-1653 -1971 -205] with "ssg08" (headshot penetrated)
+L 04/08/2022 - 20:50:57: "nu<16><STEAM_1:0:625971129><CT>" threw hegrenade [-506 -678 -88]
+L 04/08/2022 - 20:50:57: "Serby-<6><STEAM_1:1:636507947><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/08/2022 - 20:50:57: "nu<16><STEAM_1:0:625971129><CT>" [-854 118 -172] killed "Serby-<6><STEAM_1:1:636507947><TERRORIST>" [-586 -1542 -104] with "ssg08" (headshot)
+L 04/08/2022 - 20:51:01: [META] Loaded 0 plugins (1 already loaded)
+L 04/08/2022 - 20:51:01: [META] Loaded 0 plugins (1 already loaded)
+L 04/08/2022 - 20:51:01: Log file closed

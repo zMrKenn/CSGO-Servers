@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	// HAIR 1
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_05hair_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\hair_normal"
+	"$translucent" "1"
+
+	"$halflambert" 	"1"
+ 	"$phong"		"1"
+	"$phongexponent" "2"	
+	"$phongboost"	"0.2"
+	"$phongwarptexture"  "models/player/kuristaja/barry/hair_warp"
+	"$phongfresnelranges"	"[5 6 8]"
+
+
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// PHONG
+
+	"$basetexture" "models/player/kuristaja/agent_smith/shades"
+	"$bumpmap" "models/player/kuristaja/agent_smith/shades_normal"
+
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" ".1"	
+
+	"$phongfresnelranges"	"[5 6 8]"
+	//"$halflambert" "0"	
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/karachenko/tr_karachenko_glove"
+	"$bumpmap"		"models/player/kuristaja/cso2/karachenko/tr_karachenko_glove_normal"
+
+	$color "[.65 .61 .34]"
+	$phong 1
+	$phongtint "[.31 .16 .01]"
+	$phongexponent 35
+	$phongboost 30
+
+	$envmap "env_cubemap"
+	$envmaptint 		"[.15 .12 .05]"
+
+	"$normalmapalphaenvmapmask" 1
+}

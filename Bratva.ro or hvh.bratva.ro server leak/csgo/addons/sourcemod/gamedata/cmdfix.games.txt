@@ -1,0 +1,45 @@
+"Games"
+{
+	"csgo"
+	{
+		"Addresses"
+		{
+			"PlayerMove"
+			{
+				"windows"
+				{
+					"signature"	"CBasePlayer::PlayerRunCommand"				
+					"read"		"4"
+				}
+				"linux"
+				{
+					"signature"	"g_PlayerMove"
+				}
+			}
+		}
+		
+		"Signatures"
+		{
+			"CBasePlayer::PlayerRunCommand"
+			{
+				"library"	"server"
+				"windows"	"\xFF\x75\x0C\xA1\x2A\x2A\x2A\x2A\xB9\x2A\x2A\x2A\x2A\x57\x56\xFF"
+			}
+			
+			"g_PlayerMove"
+			{
+				"library"	"server"
+				"linux"		"@_ZL12g_PlayerMove"
+			}
+		}
+		
+		"Offsets"
+		{
+			"CPlayerMove::RunCommand"
+			{
+				"windows"	"1"
+				"linux"		"2"
+			}
+		}
+	}
+}

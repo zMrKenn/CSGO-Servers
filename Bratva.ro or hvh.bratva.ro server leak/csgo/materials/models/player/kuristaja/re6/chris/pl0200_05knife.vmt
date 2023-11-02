@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/player/kuristaja/re6/chris/pl0200_05knife"
+	"$bumpmap" 	"models/player/kuristaja/re6/chris/pl0200_05knife_normal"
+	"$surfaceprop" 	"metal"
+
+	"$halflambert" 	"1"
+ 	"$phong" 	"1"
+	"$phongexponent" "45"
+	"$phongboost"	".5"
+
+	"$rimlight"               "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost"	" .1"
+}

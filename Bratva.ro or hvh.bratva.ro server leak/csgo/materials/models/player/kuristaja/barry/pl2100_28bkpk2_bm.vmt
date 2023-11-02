@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// WATCH 1
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_28bkpk_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\bkpk_normal"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1.5"
+	"$PhongAlbedoTint" "1"
+}

@@ -1,0 +1,71 @@
+"Abner Res"
+{
+  "wildd.mp3"
+  {
+    "songname" "Rihanna - Wild Thoughts"
+  }
+  "burak.mp3"
+  {
+    "songname" "Burak Yeter - Tuesday ft. Danelle Sandoval"
+  }
+  "plusone.mp3"
+  {
+    "songname" "Martin Solveig - +1"
+  }
+  "mellow.mp3"
+  {
+    "songname" "Marshmello - Keep it Mello"
+  }
+  "boujee.mp3"
+  {
+    "songname" "Migos - Bad and Boujee"
+  }
+   "chris.mp3"
+  {
+    "songname" "Last Christmas - Trap Remix"
+  }
+  "rock.mp3"
+  {
+    "songname" "Post Malone - rockstar ft. 21 Savage"
+  }
+  "ballin.mp3"
+  {
+    "songname" "Logic - Ballin"
+  }
+  "ruletaa.mp3"
+  {
+    "songname" "Inna - Ruleta"
+  }
+  "kevinho.mp3"
+  {
+    "songname" "MC Kevinho - Olha a Explosão"
+  }
+  "mind.mp3"
+  {
+    "songname" "Skrillex & Diplo - Mind feat. Kai"
+  }
+   "rere.mp3"
+  {
+    "songname" "Lucid - Re Re"
+  }
+  "rules.mp3"
+  {
+    "songname" "Dua Lipa - New Rules"
+  }
+  "girls.mp3"
+  {
+    "songname" "Tinie Tempah - Girls Like"
+  }
+  "wet.mp3"
+  {
+    "songname" "Fly Project - Get Wet"
+  }
+  "unfor.mp3"
+  {
+    "songname" "French Montana - Unforgettable"
+  }
+  "fearless.mp3"
+  {
+    "songname" "TULE - Fearless"
+  }
+}

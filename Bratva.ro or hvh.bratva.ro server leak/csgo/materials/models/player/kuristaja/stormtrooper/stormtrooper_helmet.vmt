@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models/player/kuristaja/stormtrooper/stormtrooper_helmet"
+	"$bumpmap" "models/player/kuristaja/stormtrooper/stormtrooper_helmet_normal"
+
+	"$phongexponent" "20"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	".4"
+	"$phongfresnelranges"	"[1 1.15 1.75]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "5"
+}

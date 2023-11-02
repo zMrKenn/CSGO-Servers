@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/mila/tr_mila_face_eyelashes"
+        	$translucent  1
+	$nocull 1
+}

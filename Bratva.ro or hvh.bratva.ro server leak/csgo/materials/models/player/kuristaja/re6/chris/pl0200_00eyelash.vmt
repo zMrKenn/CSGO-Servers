@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/player/kuristaja/re6/chris/pl0200_00eyelash"
+
+	"$translucent" 	"1"
+	"$nocull"	 	"1"
+}

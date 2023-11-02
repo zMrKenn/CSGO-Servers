@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	// HAIR, TRANSLUCENT
+
+	"$baseTexture" "models/player/kuristaja/cso2/natalie_santagirl/tr_natary_hair"	
+	"$bumpmap" "models/player/kuristaja/cso2/natalie_santagirl/tr_natary_hair_normal"
+
+	"$phong"			1
+	"$phongboost"		1.6
+	"$phongexponent"		20
+	"$phongFresnelboost"	2
+	"$phongFresnelexponent"	3
+	"$phongtint"   		"[0.15 0.15 0.15]"
+
+	//"$rimlight"		1
+	"$rimlightexponent"		10  
+	"$rimlightboost"		1.2
+	"$rimmask"		0
+
+	$translucent  1
+
+	 //$alphatest 1
+	// $ALPHATESTREFERENCE	0.1
+}

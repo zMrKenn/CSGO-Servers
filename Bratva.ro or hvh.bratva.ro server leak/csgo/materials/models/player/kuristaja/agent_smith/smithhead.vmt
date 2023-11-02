@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/agent_smith/smithhead"
+	"$bumpmap" "models/player/kuristaja/agent_smith/smithhead-normal"
+}

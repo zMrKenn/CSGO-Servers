@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/kuristaja/trager/trager_hair"
+	"$translucent" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,23 @@
+"Phrases"
+{
+				// 1 - TAG, 2 - attacker name, 3 - victim name, 4 - weapon
+	"HS2All"
+	{
+		"ru"	"  {1}{orange}{2} {darkred}сделал хэдшот без прицела {orange}{3} {default}[{blue}{4}{default}]!"
+	}
+				// Number of headshots
+	"HS"
+	{
+		"ru"	"{orange}Всего хэдшотов без прицела: {darkred}{1}"
+	}
+				// 1 - TAG, 2 - attacker name, 3 - victim name, 4 - weapon
+	"Kill2All"
+	{
+		"ru"	"  {1}{orange}{2} {darkred}убил без прицела {orange}{3} {default}[{blue}{4}{default}]!"
+	}
+				// Number of kills
+	"Kill"
+	{
+		"ru"	"{orange}Всего убийств без прицела: {darkred}{1}"
+	}
+}

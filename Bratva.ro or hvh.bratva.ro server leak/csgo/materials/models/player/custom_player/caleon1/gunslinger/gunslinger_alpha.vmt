@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/custom_player/caleon1/gunslinger/GUNSLINGER_ALPHA.vtf"
+	
+	$alphatest 1
+	$allowalphatocoverage 1
+}

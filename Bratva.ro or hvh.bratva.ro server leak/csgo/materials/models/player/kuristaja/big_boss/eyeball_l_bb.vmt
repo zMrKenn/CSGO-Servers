@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/big_boss/eyeball_source"
+
+	"$phong" "1"
+	"$BasemapAlphaPhongMask" "1"
+	"$phongexponent" 45
+	"$phongboost" "0.25"
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	// CRYFIBRIL
+
+	"$basetexture" 			"models/player/kuristaja/nanosuit/nanosuit_torso"
+	"$bumpmap" 			"models/player/kuristaja/nanosuit/nanosuit_torso_normal"
+
+	"$phong" 			"1"
+	"$basemapalphaphongmask" 		"1"
+	"$phongexponent" 			"30"
+	"$phongboost"			".3"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent" 			"15"
+	"$rimlightboost"			".2"
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/karachenko/tr_karachenko_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/karachenko/tr_karachenko_hand_normal"
+
+	"$phongexponent"		10
+	"$phongboost"		1.2
+	"$phong"			1
+
+	"$rimlight"		1
+	"$rimlightexponent"		10
+	"$rimlightboost"		.07
+	"$rimmask"		0
+}

@@ -1,0 +1,174 @@
+"Phrases"
+{
+	"ADD_KEY_ERROR_USAGE"
+	{
+		"ru"	"Используйте: vip_add_key <имя ключа> <группа> <срок> [время жизни ключа]"
+		"en"	"Usage: vip_add_key <key name> <group> <time> [key lifetime]"
+		"fi"	"Käyttö: vip_add_key <avaimen nimi> <ryhmä> <aika> [avaimen käyttöiän aika]"
+	}
+	"ADD_KEY_ERROR_KEY_ALREADY_EXISTS"
+	{
+		"ru"	"ОШИБКА: Ключ уже существует!"
+		"en"	"ERROR: Key already exists!"
+		"fi"	"VIRHE: avain on jo olemassa!"
+	}
+	"ADD_KEY_ERROR_INCORRECT_TIME"
+	{
+		"ru"	"ОШИБКА: Неверное время!"
+		"en"	"ERROR: Incorrect time!"
+		"fi"	"VIRHE: Väärä aika!"
+	}
+	"ADD_KEY_ERROR_INCORRECT_LIFETIME"
+	{
+		"ru"	"ОШИБКА: Неверное время жизни ключа!"
+		"en"	"ERROR: Incorrect key lifetime!"
+		"fi"	"VIRHE: Virheellinen avaimen elinikä!"
+	}
+	"ADD_KEY_ERROR_INCORRECT_GROUP"
+	{
+		"ru"	"ОШИБКА: Неверная группа!"
+		"en"	"ERROR: Incorrect group!"
+		"fi"	"VIRHE: Virheellinen ryhmä!"
+	}
+	
+	"GEN_KEYS_ERROR_USAGE"
+	{
+		"ru"	"Используйте: vip_gen_keys <количество (1-100)> <группа> <срок> [время жизни ключей]"
+		"en"	"Usage: vip_gen_keys <amount 1-100> <group> <time> [keys lifetime]"
+		"fi"	"Käyttö: vip_gen_keys <määrä (1-100)> <ryhmä> <aika> [avaimen käyttöiän aika]"
+	}
+	"GEN_KEYS_ERROR_INCORRECT_AMOUNT"
+	{
+		"ru"	"ОШИБКА: Неверное количество!"
+		"en"	"ERROR: Incorrect amount!"
+		"fi"	"VIRHE: Väärä määrä!"
+	}
+	"GEN_KEYS_ERROR_INCORRECT_TIME"
+	{
+		"ru"	"ОШИБКА: Неверное время!"
+		"en"	"ERROR: Incorrect time!"
+		"fi"	"VIRHE: Väärä aika!"
+	}
+	"GEN_KEYS_ERROR_INCORRECT_LIFETIME"
+	{
+		"ru"	"ОШИБКА: Неверное время жизни ключа!"
+		"en"	"ERROR: Incorrect key lifetime!"
+		"fi"	"VIRHE: Virheellinen avaimen elinikä!"
+	}
+	"GEN_KEYS_ERROR_INCORRECT_GROUP"
+	{
+		"ru"	"ОШИБКА: Неверная группа!"
+		"en"	"ERROR: Incorrect group!"
+		"fi"	"VIRHE: Virheellinen ryhmä!"
+	}
+	
+	"KEY_SUCCESSFULLY_ADDED"
+	{
+		"#format"	"{1:s}"
+		"ru"	"Ключ {1} успешно добавлен!"
+		"en"	"The key {1} successfully added!"
+		"fi"	"Avain {1} onnistuneesti lisätty!"
+	}
+	
+	"KEY_LIST_TITLE"
+	{
+		"ru"	"Ключ:              Группа:           Срок:"
+		"en"	"Key:              Group:           Time:"
+		"fi"	"Avain:            Ryhmä:           Aika:"
+	}
+	
+	"KEY_LIST_NO_KEYS"
+	{
+		"ru"	"Нет ни одного ключа!"
+		"en"	"No Keys!"
+		"fi"	"Ei ole yhtään avainta!"
+	}
+	
+	"DEL_KEY_ERROR_USAGE"
+	{
+		"ru"	"Используйте: vip_del_key <имя ключа> или vip_remove_key <имя ключа>"
+		"en"	"Usage: vip_del_key <key name> or vip_del_key <key name>"
+		"fi"	"Käyttö: vip_del_key <avaimen nimi> tai vip_remove_key <avaimen nimi>"
+	}
+
+	"KEY_DELETED_SUCCESSFULLY"
+	{
+		"#format"	"{1:s}"
+		"ru"	"Ключ {1} успешно удален!"
+		"en"	"Key {1} deleted successfully!"
+		"fi"	"Avain {1} poistettu onnistuneesti!"
+	}
+	
+	"ALL_KEYS_DELETED_SUCCESSFULLY"
+	{
+		"ru"	"Все ключи успешно удалены!"
+		"en"	"All keys deleted successfully!"
+		"fi"	"Kaikki avaimet ovat poistettu onnistuneesti!"
+	}
+	"DEL_KEY_ERROR_INCORRECT_LIFETIME"
+	{
+		"ru"	"ОШИБКА: Неверное время жизни ключа!"
+		"en"	"ERROR: Incorrect key lifetime!"
+		"fi"	"VIRHE: Virheellinen avaimen elinikä!"
+	}
+	"DEL_KEY_ERROR_INCORRECT_GROUP"
+	{
+		"ru"	"ОШИБКА: Неверная группа!"
+		"en"	"ERROR: Incorrect group!"
+		"fi"	"VIRHE: Virheellinen ryhmä!"
+	}
+	
+	"USE_KEY_ERROR_USAGE"
+	{
+		"ru"	"Используйте: vip_key <имя ключа> или vipkey <имя ключа>"
+		"en"	"Usage: vip_key <key name> or vipkey <key name>"
+		"fi"	"Käyttö: vip_key <avaimen nimi> tai vipkey <avaimen nimi>"
+	}
+	
+	"USE_KEY_ERROR_BLOCKED"
+	{
+		"ru"	"Вы были заблокированы и не можете использовать ключи!"
+		"en"	"You have been blocked and can not use keys!"
+		"fi"	"Sinut on estetty etkä voi käyttää avaimia!"
+	}
+	
+	"USE_KEY_ERROR_VIP_ALREADY"
+	{
+		"ru"	"Вы уже являетесь VIP-игроком!"
+		"en"	"You are VIP already!"
+		"fi"	"Olet jo VIP-Pelaaja!"
+	}
+	"ERROR_KEY_NOT_EXIST"
+	{
+		"ru"	"ОШИБКА: Ключ не существует!"
+		"en"	"ERROR: The key does not exist!"
+		"fi"	"Avain ei ole olemassa!"
+	}
+	"USE_KEY_ERROR_HAS_OCCURRED"
+	{
+		"ru"	"Произошла ошибка!"
+		"en"	"An error has occurred"
+		"fi"	"Tapahtui virhe!"
+	}
+	
+	"USE_KEY_ERROR_INCORRECT_KEY_LEFT"
+	{
+		"#format"	"{1:i}"
+		"ru"	"Вы ввели неверный ключ! Осталось попыток: {1}"
+		"en"	"You have entered incorrect key! Attempts remaining: {1}"
+		"fi"	"Olet antanut väärän avaimen! Yrityksiä jäljellä: {1}"
+	}
+	
+	"USE_KEY_SUCCESSFULLY"
+	{
+		"ru"	"Вы успешно использовали ключ и получили VIP-статус!"
+		"en"	"You have successfully used the key and got VIP-status!"
+		"fi"	"Olet onnistuneesti käyttänyt avaimen ja saanut VIP-statuksen!"
+	}
+	"ERROR_KEY_NOT_EXISTS"
+	{
+        "ru"    "Key doesn't EXIST!!!"
+        "en"    "Key doesn't EXIST!!!"
+        "fi"    "Key doesn't EXIST!!!"
+	}
+}

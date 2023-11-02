@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// WATCH 2 glass
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_28bkpk_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\bkpk_normal"
+
+	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "0.5"
+	"$envmapsaturation" "0.7"
+}

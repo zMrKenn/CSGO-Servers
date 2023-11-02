@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/items/mushroom/mush_large"
+	$lightwarptexture "models/items/mushroom/lightwrap"
+	"$bumpmap" "models/items/mushroom/normal"
+	$halflambert 0
+}

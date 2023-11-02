@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$baseTexture 	"models\player\kuristaja\l4d2\nick\gambler_eyes"
+	"$bumpmap"     	"models\player\kuristaja\l4d2\nick\eyes_normal"
+
+	"$phong" 			"1"
+	"$phongboost"			"27"
+	"$phongexponent"			"40"
+	"$phongfresnelranges"		"[.05 .1 .2]"
+}

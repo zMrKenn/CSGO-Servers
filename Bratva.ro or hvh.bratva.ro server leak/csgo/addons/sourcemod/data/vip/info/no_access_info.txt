@@ -1,0 +1,13 @@
+
+// Смотрите описание sm_vip_info_show_mode
+
+// Цвета для чата:
+// {DEFAULT} - золотой
+// {LIGHTGREEN} - салатовый
+// {GREEN} - зеленый
+// HTML цвета, например: #FFFFAA
+
+
+You do not have access to this menu!
+To purchase VIP status
+Contact fNK\n \n

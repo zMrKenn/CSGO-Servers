@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// MAGNUM HOLSTER
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_23pant_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\pant_normal"
+
+	"$phong" "1"
+	"$phongexponent" 45
+	"$phongboost" ".25"
+	"$PhongAlbedoTint" "1"
+}

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/mila/female_body_hand"
+	"$bumpmap" "models/player/kuristaja/cso2/mila/female_body_hand_normal"
+
+	"$phong"			1
+	"$phongboost"		2  
+	"$phongexponent"		6   
+	"$phongFresnelboost"	1    
+	"$phongFresnelexponent"	3 
+	"$phongtint"   		"[1 1 1]"
+
+	"$rimlight"		1
+	"$rimlightexponent"		8
+	"$rimlightboost"		4
+	//"$rimlightcolorblend"	1
+	"$rimmask"		0
+}

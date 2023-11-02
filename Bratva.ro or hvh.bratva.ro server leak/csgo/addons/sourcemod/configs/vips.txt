@@ -1,0 +1,20 @@
+//
+// A - Armor (100) On Spawn
+// D - Defuser On Spawn (If CT)
+// F - Flashbang On Spawn
+// G - Grenade On Spawn
+// H - Health Per Frag (1 Frag = +5 HP)
+// I - Incendiary/ Molotov On Spawn
+// S - Smoke Grenade On Spawn
+// U - Infinite Bullets
+//
+
+STEAM_1:1:231069809 A //pepsanu
+
+
+
+
+
+
+
+

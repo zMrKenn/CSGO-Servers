@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$baseTexture "models\player\kuristaja\l4d2\nick\gambler_hair"
+	$halflambert 1
+	$translucent 1
+
+	$nocull 1
+}

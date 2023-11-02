@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	// Metal
+
+	"$basetexture" 			"models/player/kuristaja/nanosuit/nanosuit_torso"
+	"$bumpmap" 			"models/player/kuristaja/nanosuit/nanosuit_torso_normal"
+
+	"$phong" 			"1"
+	"$basemapalphaphongmask" 		"1"	// affects envmap too
+	"$phongexponent" 			"40"
+	"$phongboost"			".7"
+
+	"$envmap" 			"env_cubemap"
+	"$basealphaenvmapmask"		 "1"
+	"$envmaptint" 			"[.5 .5 .4]"
+	"$envmapcontrast" 			".45"
+
+	"$rimlight"              			 "1"
+	"$rimlightexponent" 			"15"
+	"$rimlightboost"			".2"
+}

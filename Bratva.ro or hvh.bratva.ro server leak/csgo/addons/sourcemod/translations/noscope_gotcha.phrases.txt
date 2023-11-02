@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"HS2All"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"	// TAG, attacker name, victim name, weapon
+		"en"	"  {1} {orange}{2} {darkred}HEADSHOT NO-SCOPED {orange}{3} {darkred}with the {blue}{4}{default}!"
+	}
+	"HS"
+	{
+		"#format"	"{1:d}"			// Number of headshots
+		"en"	"{orange}Total number of headshot no-scopes: {darkred}{1}"
+	}
+	"Kill2All"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"	// TAG, attacker name, victim name, weapon
+		"en"	"  {1} {orange}{2} {darkred}NO-SCOPED {orange}{3} {darkred}with the {blue}{4}{default}!"
+	}
+	"Kill"
+	{
+		"#format"	"{1:d}"			// Number of kills
+		"en"	"{orange}Total number of no-scopes: {darkred}{1}"
+	}
+}

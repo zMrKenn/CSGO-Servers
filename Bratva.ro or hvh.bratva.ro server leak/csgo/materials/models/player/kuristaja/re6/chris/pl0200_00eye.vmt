@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 "models/player/kuristaja/re6/chris/pl0200_00eye"
+	"$surfaceprop" 	"flesh"
+}

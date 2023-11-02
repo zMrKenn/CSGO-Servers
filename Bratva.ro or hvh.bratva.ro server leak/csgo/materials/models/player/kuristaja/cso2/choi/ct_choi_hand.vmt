@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/choi/ct_choi_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/choi/ct_choi_hand_normal"
+
+	"$phongexponent"		12
+	"$phongboost"		1
+	"$phong"			1
+	"$bumpscale"		1
+
+	"$rimlight"		1
+	"$rimlightexponent"		6
+	"$rimlightboost"		1.5
+	//"$rimlightcolorblend"	1
+	"$rimmask"		0
+
+	"$normalmapalphaenvmapmask" 1
+	"$specularmask" 		"255"
+        	"$diffusecontrast" 		 0.25
+}

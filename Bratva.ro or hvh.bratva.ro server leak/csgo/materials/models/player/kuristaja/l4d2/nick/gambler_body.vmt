@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+	$baseTexture "models\player\kuristaja\l4d2\nick\gambler_body"
+	$bumpmap "models\player\kuristaja\l4d2\nick\gambler_body_normal"
+
+	$phong 1
+	$phongboost 2.2
+	$phongexponent 7
+	$phongtint "[1 1 1]"
+	$halflambert 0
+	$phongfresnelranges "[.4 .8 30]"
+
+	// Rim lighting parameters
+	//"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".4"										// Boost for ambient cube component of rim lighting
+}

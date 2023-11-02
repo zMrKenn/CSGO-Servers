@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/lisa/ct_lisa"
+	"$bumpmap"		"models/player/kuristaja/cso2/lisa/ct_lisa_normal"
+
+	"$phong"			1
+	"$phongboost"		.5
+	"$phongexponent"		30
+	"$phongFresnelboost"	2
+	"$phongFresnelexponent"	3
+	"$phongtint"   		"[1 1 1]"
+
+	"$rimlight"		1
+	"$rimlightexponent"		7
+	"$rimlightboost"		.2
+	//"$rimlightcolorblend"	1.0
+	"$rimmask"		0
+}

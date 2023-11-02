@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/big_boss/sna2_eyelashes_bsm_alp"
+
+	"$translucent" "1"
+	"$nocull" "1"
+}

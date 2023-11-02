@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// FLASH LIGHT
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_25eqip_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\eqip_normal"
+
+	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "0.5"
+	"$envmapsaturation" "0.4"
+}

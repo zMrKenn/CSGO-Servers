@@ -1,0 +1,48 @@
+L 04/08/2022 - 19:32:47: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 19:32:49: Error log file session closed.
+L 04/08/2022 - 19:32:49: SourceMod error session started
+L 04/08/2022 - 19:32:49: Info (map "de_dust") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 19:32:49: [no_dupe_account.smx] WARNING: Database config 'no_dupe_account' doesn't exist in databases.cfg - Database will be automatically disabled.
+L 04/08/2022 - 19:33:03: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 19:33:04: Error log file session closed.
+L 04/08/2022 - 19:35:25: SourceMod error session started
+L 04/08/2022 - 19:35:25: Info (map "de_dust") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 19:35:25: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 04/08/2022 - 19:35:37: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 19:35:38: Error log file session closed.
+L 04/08/2022 - 19:40:32: SourceMod error session started
+L 04/08/2022 - 19:40:32: Info (map "de_dust") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 19:40:32: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 19:40:34: Error log file session closed.
+L 04/08/2022 - 19:44:00: SourceMod error session started
+L 04/08/2022 - 19:44:00: Info (map "de_dust") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 19:44:00: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 19:44:02: Error log file session closed.
+L 04/08/2022 - 20:04:50: SourceMod error session started
+L 04/08/2022 - 20:04:50: Info (map "de_mirage") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 20:04:50: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 20:04:52: Error log file session closed.
+L 04/08/2022 - 20:16:45: SourceMod error session started
+L 04/08/2022 - 20:16:45: Info (map "cs_office") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 20:16:45: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 20:16:53: Error log file session closed.
+L 04/08/2022 - 20:30:10: SourceMod error session started
+L 04/08/2022 - 20:30:10: Info (map "de_dust2") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 20:30:10: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 20:30:16: Error log file session closed.
+L 04/08/2022 - 20:35:39: SourceMod error session started
+L 04/08/2022 - 20:35:39: Info (map "de_nuke") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 20:35:39: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 20:35:41: Error log file session closed.
+L 04/08/2022 - 20:39:12: SourceMod error session started
+L 04/08/2022 - 20:39:12: Info (map "de_mirage") (file "/home/client4775/service5731/csgo/csgo/addons/sourcemod/logs/errors_20220408.log")
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: (
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: @
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: C
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: -
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: O
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: w
+L 04/08/2022 - 20:39:12: [admin-flatfile.smx]  (line 39) Invalid flag detected: )
+L 04/08/2022 - 20:44:36: [sv_server_graphic_rotator.smx] File not found: addons/sourcemod/configs/graphics.txt!
+L 04/08/2022 - 20:44:37: Error log file session closed.

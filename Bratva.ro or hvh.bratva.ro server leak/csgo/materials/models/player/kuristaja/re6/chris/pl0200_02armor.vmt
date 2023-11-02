@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/player/kuristaja/re6/chris/pl0200_02armor"
+	"$bumpmap" 	"models/player/kuristaja/re6/chris/pl0200_02armor_normal"
+	"$surfaceprop" 	"foliage"
+
+	"$halflambert" 	"1"
+ 	"$phong" 	"1"
+	"$phongexponent" "20"	
+	"$phongboost"	".6"
+
+	"$rimlight"               "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost"	" .1"
+}

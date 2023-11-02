@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// IRIS
+
+	"$baseTexture" 	"models\player\kuristaja\barry\pl2100_91eye_bm"
+	"$bumpmap"     	"models\player\kuristaja\barry\eye_normal"
+
+	"$additive" "1"
+}
