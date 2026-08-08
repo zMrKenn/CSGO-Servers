@@ -1,9 +1,55 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-<h2 id="user-content-my-system" dir="auto"><a class="heading-link" href="#my-system">1TAP will remain in our lives<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p dir="auto">Info : this server was leaked by me a long time ago and I just decided to post it here.</p>
-<p dir="auto">Info product : Source/Server files from hvh.bratva.ro + website source/files homepage</p>
-<p dir="auto">Additional informations : This is a backup who was stolen from Flitz (Scripter), I don't care about any problems that you will have with this backup</p>
-<p dir="auto">Contact: Keen9999</p>
-<p dir="auto">P.S Don't purchase servers from shit scripters like that guy</p>
-<h2 id="user-content-contact-me" dir="auto"><a class="heading-link" href="#contact-me">1TAP will remain in our lives<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-</ul>
+<div align="center">
+
+# Bratva HVH - Source Release
+
+<sub>Server + website source, released publicly.</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-archived-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" alt="Archived"/>
+<img src="https://img.shields.io/badge/type-source%20dump-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Source"/>
+<img src="https://img.shields.io/badge/contact-Keen9999-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+
+</div>
+
+---
+
+## ▸ what this is
+
+Old backup of **hvh.bratva.ro** - game server files and homepage / website source.
+
+I decided to post this leak myself since I'm the original leaker, and people were trying to sell it. I'm publishing the dump so people stop circulating random, broken copies
+
+---
+
+## ▸ included
+
+```text
+◉  server source / files
+◉  website / homepage source
+```
+
+---
+
+## ▸ disclaimer
+
+```text
+◉  old backup — not maintained
+◉  no support, no fixes, no guarantees
+◉  use at your own risk
+```
+
+If something is broken, outdated, or incomplete: expected. Don't open issues expecting repairs.
+
+---
+
+## ▸ contact
+
+```bash
+disc  Keen9999
+```
+
+<div align="center">
+  <br/>
+  <sub>released as-is · do what you want with it</sub>
+</div>
